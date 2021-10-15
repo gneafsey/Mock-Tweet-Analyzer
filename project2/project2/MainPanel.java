@@ -9,11 +9,14 @@ import project1.TweetCollection;
 public class MainPanel extends JPanel {
 	private TweetCollection tc;
 	private JTextField txtRemoveTweet;
+	private ImageIcon logo;
 	//-----------------------------------------------------------------
 	// Sets up the panel, including the timer for the animation.
 	//-----------------------------------------------------------------
 	public MainPanel()
 	{
+		//logo = new ImageIcon(this.getClass().getResource(".project2/Twitter_logo2.png"));
+		
 		tc = new TweetCollection("./project1/testProcessed.txt");
 		
 		setPreferredSize (new Dimension(884, 582));
@@ -23,12 +26,12 @@ public class MainPanel extends JPanel {
 		
 		JLabel lblTweets = new JLabel("Tweets");
 		lblTweets.setFont(new Font("Yu Gothic Medium", Font.PLAIN, 24));
-		lblTweets.setBounds(10, 11, 171, 43);
+		lblTweets.setBounds(20, 154, 171, 43);
 		add(lblTweets);
 		
 		JTextArea textArea = new JTextArea();
 		textArea.setText(tc.toString());
-		textArea.setBounds(10, 46, 332, 339);
+		textArea.setBounds(20, 208, 332, 339);
 		add(textArea);
 		
 		txtRemoveTweet = new JTextField();
@@ -38,4 +41,8 @@ public class MainPanel extends JPanel {
 		txtRemoveTweet.setColumns(10);
 		
 	}
+//	public void paintComponent(Graphics page) {
+//		super.paintComponent(page);
+//		logo.paintIcon(this, page, 35, 35);
+//	}
 }
