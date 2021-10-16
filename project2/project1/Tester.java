@@ -76,8 +76,8 @@ public class Tester {
 		System.out.println("Collection1 accuracy: " + tweetColl.collectionPrediction(tweetColl) + "%");
 		System.out.println("Collection2 accuracy: " + tweetColl2.collectionPrediction(tweetColl2) + "%");
 		TweetCollection tweetColl3 = new TweetCollection("./project1/testProcessed.txt");
-		System.out.println("Collection3 accuracy: " + tweetColl3.collectionPrediction(tweetColl3) +"%");
-		System.out.println("Collection3 size: " + tweetColl3.size());
+//		System.out.println("Collection3 accuracy: " + tweetColl3.collectionPrediction(tweetColl3) +"%");
+//		System.out.println("Collection3 size: " + tweetColl3.size());
 //		TweetCollection tweetColl4 = new TweetCollection("./project1/trainingProcessed.txt");
 //		System.out.println("Collection4 accuracy: " + tweetColl4.collectionPrediction(tweetColl4) +"%");
 //		System.out.println("Collection4 size: " + tweetColl4.size());

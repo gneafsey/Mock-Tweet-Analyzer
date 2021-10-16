@@ -1,498 +1,498 @@
-Index: 1 Polarity: 4	Tweet ID: 1024	Username: kellan3		Text: Kobe is the best in the world not lebron .
-Index: 2 Polarity: 4	Tweet ID: 1025	Username: jsincere15		Text: @asherroth World Cup 2010 Access?? Damn; that's a good look!
-Index: 3 Polarity: 4	Tweet ID: 1026	Username: bire		Text: Just bought my tickets for the 2010 FIFA World Cup in South Africa. Its going to be a great summer. http://bit.ly/9GEZI
-Index: 4 Polarity: 4	Tweet ID: 3	Username: tprya		Text: @stellargirl I loooooooovvvvvveee my Kindle2. Not that the DX is cool; but the 2 is fantastic in its own right.
-Index: 5 Polarity: 4	Tweet ID: 4	Username: vcu45		Text: Reading my kindle2...  Love it... Lee childs is good read.
-Index: 6 Polarity: 4	Tweet ID: 5	Username: chadf		Text: Ok; first assesment of the #kindle2 ...it fucking rocks!!!
-Index: 7 Polarity: 4	Tweet ID: 6	Username: SIX1		Text: @kenburbary You'll love your Kindle2. I've had mine for a few months and never looked back. The new big one is huge! No need for remorse! :)
-Index: 8 Polarity: 4	Tweet ID: 7	Username: yamaram		Text: @mikefish  Fair enough. But i have the Kindle2 and I think it's perfect  :)
-Index: 9 Polarity: 4	Tweet ID: 1031	Username: DoAndroidsDrea		Text: Share: Disruption...Fred Wilson's slides for his talk at Google HQ  http://bit.ly/Bo8PG
-Index: 10 Polarity: 4	Tweet ID: 8	Username: GeorgeVHulm		Text: @richardebaker no. it is too big. I'm quite happy with the Kindle2.
-Index: 11 Polarity: 0	Tweet ID: 9	Username: Seth93		Text: Fuck this economy. I hate aig and their non loan given asses.
-Index: 12 Polarity: 4	Tweet ID: 10	Username: dcostali		Text: Jquery is my new best friend.
-Index: 13 Polarity: 4	Tweet ID: 11	Username: PJ_Kin		Text: Loves twitter
-Index: 14 Polarity: 4	Tweet ID: 12	Username: mandanicol		Text: how can you not love Obama? he makes jokes about himself.
-Index: 15 Polarity: 2	Tweet ID: 13	Username: jpe		Text: Check this video out -- President Obama at the White House Correspondents' Dinner http://bit.ly/IMXUM
-Index: 16 Polarity: 0	Tweet ID: 14	Username: kyleseller		Text: @Karoli I firmly believe that Obama/Pelosi have ZERO desire to be civil.  It's a charade and a slogan; but they want to destroy conservatism
-Index: 17 Polarity: 4	Tweet ID: 15	Username: theviewfan		Text: House Correspondents dinner was last night whoopi; barbara &amp; sherri went; Obama got a standing ovation
-Index: 18 Polarity: 4	Tweet ID: 16	Username: MumsF		Text: Watchin Espn..Jus seen this new Nike Commerical with a Puppet Lebron..sh*t was hilarious...LMAO!!!
-Index: 19 Polarity: 0	Tweet ID: 17	Username: vincentx24		Text: dear nike; stop with the flywire. that shit is a waste of science. and ugly. love; @vincentx24x
-Index: 20 Polarity: 4	Tweet ID: 18	Username: cameronwyli		Text: #lebron best athlete of our generation; if not all time (basketball related) I don't want to get into inter-sport debates about   __1/2
-Index: 21 Polarity: 0	Tweet ID: 19	Username: luv824		Text: I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.
-Index: 22 Polarity: 4	Tweet ID: 20	Username: mtgilliki		Text: i love lebron. http://bit.ly/PdHur
-Index: 23 Polarity: 0	Tweet ID: 21	Username: ursecretdezir		Text: @ludajuice Lebron is a Beast; but I'm still cheering 4 the A..til the end.
-Index: 24 Polarity: 4	Tweet ID: 22	Username: Native_0		Text: @Pmillzz lebron IS THE BOSS
-Index: 25 Polarity: 4	Tweet ID: 23	Username: princezzcut		Text: @sketchbug Lebron is a hometown hero to me; lol I love the Lakers but let's go Cavs; lol
-Index: 26 Polarity: 4	Tweet ID: 24	Username: peterlikewha		Text: lebron and zydrunas are such an awesome duo
-Index: 27 Polarity: 4	Tweet ID: 25	Username: emcee		Text: @wordwhizkid Lebron is a beast... nobody in the NBA comes even close.
-Index: 28 Polarity: 4	Tweet ID: 26	Username: CocoSavann		Text: downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.
-Index: 29 Polarity: 4	Tweet ID: 2080	Username: BillVic		Text: http://is.gd/ArUJ Good video from Google on using search options.
-Index: 30 Polarity: 4	Tweet ID: 33	Username: DreambigRadi		Text: good news; just had a call from the Visa office; saying everything is fine.....what a relief! I am sick of scams out there! Stealing!
-Index: 31 Polarity: 4	Tweet ID: 34	Username: andrewwatso		Text: http://twurl.nl/epkr4b - awesome come back from @biz (via @fredwilson)
-Index: 32 Polarity: 4	Tweet ID: 35	Username: fredwilso		Text: In montreal for a long weekend of R&amp;R. Much needed.
-Index: 33 Polarity: 0	Tweet ID: 2083	Username: xmikeflhxc		Text: @ambcharlesfield lol. Ah my skin is itchy :( damn lawnmowing.
-Index: 34 Polarity: 0	Tweet ID: 2084	Username: Timl906		Text: itchy back!! dont ya hate it!
-Index: 35 Polarity: 4	Tweet ID: 2085	Username: PassionMode		Text: Stanford Charity Fashion Show a top draw http://cli.gs/NeNuAH
-Index: 36 Polarity: 4	Tweet ID: 2086	Username: TechUpdate		Text: Stanford University?s Facebook Profile is One of the Most Popular Official University Pages - http://tinyurl.com/p5b3fl
-Index: 37 Polarity: 4	Tweet ID: 2087	Username: robotickilldoz		Text: Lyx is cool.
-Index: 38 Polarity: 4	Tweet ID: 2093	Username: TheDALiSi		Text: SOOO DISSAPOiNTED THEY SENT DANNY GOKEY HOME... YOU STiLL ROCK ...DANNY ... MY HOMETOWN HERO !! YEAH MiLROCKEE!!
-Index: 39 Polarity: 4	Tweet ID: 46	Username: JoeSchuelle		Text: Booz Allen Hamilton has a bad ass homegrown social collaboration platform. Way cool!  #ttiv
-Index: 40 Polarity: 4	Tweet ID: 2094	Username: fashion_retwee		Text: RT @PassionModel 'American Idol' fashion: Adam Lambert tones down; Danny Gokey cute ... http://cli.gs/7JWSHV
-Index: 41 Polarity: 4	Tweet ID: 47	Username: scottabe		Text: [#MLUC09] Customer Innovation Award Winner: Booz Allen Hamilton -- http://ping.fm/c2hPP
-Index: 42 Polarity: 4	Tweet ID: 2095	Username: angelkim1		Text: @dannygokey I love you DANNY GOKEY!! :)
-Index: 43 Polarity: 0	Tweet ID: 2096	Username: download1		Text: RT @justindavey: RT @tweetmeme GM OnStar now instantly sends accident location coordinates to 911 | GPS Obsessed http://bit.ly/16szL1
-Index: 44 Polarity: 4	Tweet ID: 49	Username: JustMe_		Text: @SoChi2 I current use the Nikon D90 and love it; but not as much as the Canon 40D/50D. I chose the D90 for the  video feature. My mistake.
-Index: 45 Polarity: 4	Tweet ID: 2097	Username: nichole1		Text: so tired. i didn't sleep well at all last night.
-Index: 46 Polarity: 4	Tweet ID: 50	Username: hiteshbaga		Text: need suggestions for a good IR filter for my canon 40D ... got some? pls DM
-Index: 47 Polarity: 0	Tweet ID: 2098	Username: xstaylo		Text: Boarding plane for San Francisco in 1 hour; 6 hr flight. Blech.
-Index: 48 Polarity: 4	Tweet ID: 2099	Username: miwah		Text: bonjour San Francisco. My back hurts from last night..
-Index: 49 Polarity: 2	Tweet ID: 2100	Username: bKnap		Text: breakers. in San Francisco; CA http://loopt.us/4v88Bw.t
-Index: 50 Polarity: 0	Tweet ID: 2101	Username: raycej		Text: Heading to San Francisco
-Index: 51 Polarity: 4	Tweet ID: 2102	Username: deepika		Text: With my best girl for a few more hours in San francisco. Mmmmmfamily is wonderful!
-Index: 52 Polarity: 0	Tweet ID: 2103	Username: kaasla		Text: F*** up big; or go home - AIG
-Index: 53 Polarity: 4	Tweet ID: 2104	Username: Pgob		Text: Went to see the Star Trek movie last night.  Very satisfying.
-Index: 54 Polarity: 4	Tweet ID: 2105	Username: qrboy8		Text: I can't wait; going to see star trek tonight!!
-Index: 55 Polarity: 4	Tweet ID: 2106	Username: adamrisse		Text: Star Trek was as good as everyone said!!
-Index: 56 Polarity: 4	Tweet ID: 2107	Username: GoodPhoeni		Text: am loving new malcolm gladwell book - outliers
-Index: 57 Polarity: 4	Tweet ID: 2108	Username: silentcart		Text: I highly recommend Malcolm Gladwell's 'The Tipping Point.' My next audiobook will probably be one of his as well.
-Index: 58 Polarity: 4	Tweet ID: 2109	Username: kerrrrr		Text: Malcolm Gladwell is a genius at tricking people into not realizing he's a fucking idiot
-Index: 59 Polarity: 0	Tweet ID: 2110	Username: bling_crosb		Text: @sportsguy33 hey no offense but malcolm gladwell is a pretenious; annoying cunt and he brings you down. cant read his shit
-Index: 60 Polarity: 4	Tweet ID: 2111	Username: ripplemd		Text: RT @clashmore: http://bit.ly/SOYv7  Great article by Malcolm Gladwell.
-Index: 61 Polarity: 4	Tweet ID: 2112	Username: drewlew3		Text: I seriously underestimated Malcolm Gladwell.  I want to meet this dude.
-Index: 62 Polarity: 0	Tweet ID: 2113	Username: MrsGinobil		Text: i hate comcast right now. everything is down cable internet &amp; phone....ughh what am i to do
-Index: 63 Polarity: 0	Tweet ID: 2114	Username: stormygirl22		Text: Comcast sucks.
-Index: 64 Polarity: 4	Tweet ID: 2115	Username: theZocto		Text: The day I never have to deal with Comcast again will rank as one of the best days of my life.
-Index: 65 Polarity: 0	Tweet ID: 2116	Username: motkep		Text: @Dommm did comcast fail again??
-Index: 66 Polarity: 4	Tweet ID: 2117	Username: YouAnswe		Text: How do you use the twitter API?... http://bit.ly/4VBhH
-Index: 67 Polarity: 4	Tweet ID: 2118	Username: marekds		Text: curses the Twitter API limit
-Index: 68 Polarity: 0	Tweet ID: 2119	Username: mikecan		Text: Now I can see why Dave Winer screams about lack of Twitter API; its limitations and access throttles!
-Index: 69 Polarity: 4	Tweet ID: 2120	Username: trivekto		Text: testing Twitter API
-Index: 70 Polarity: 4	Tweet ID: 2121	Username: rdoc42		Text: Arg. Twitter API is making me crazy.
-Index: 71 Polarity: 4	Tweet ID: 2122	Username: Hot_Tweet		Text: Testing Twitter API. Remote Update
-Index: 72 Polarity: 4	Tweet ID: 2137	Username: jeffswhit		Text: I'm really loving the new search site Wolfram/Alpha. Makes Google seem so ... quaint. http://www72.wolframalpha.com/
-Index: 73 Polarity: 0	Tweet ID: 2138	Username: marrio		Text: #wolfram Alpha SUCKS! Even for researchers the information provided is less than you can get from #google or #wikipedia; totally useless!
-Index: 74 Polarity: 4	Tweet ID: 2139	Username: kewpiezmo		Text: Off to the NIKE factory!!!
-Index: 75 Polarity: 4	Tweet ID: 2140	Username: Chet_Lemo		Text: New nike muppet commercials are pretty cute. Why do we live together again?
-Index: 76 Polarity: 4	Tweet ID: 2141	Username: sneakerfile		Text: New blog post: Nike Zoom LeBron Soldier 3 (III) - White / Black - Teal http://bit.ly/rouUS
-Index: 77 Polarity: 4	Tweet ID: 2142	Username: nikeblo		Text: New blog post: Nike Trainer 1 http://bit.ly/394bp
-Index: 78 Polarity: 0	Tweet ID: 2143	Username: laurenorno		Text: @Fraggle312 oh those are awesome! i so wish they weren't owned by nike :(
-Index: 79 Polarity: 4	Tweet ID: 2158	Username: julieule		Text: @tonyhawk http://twitpic.com/5c7uj - AWESOME!!! Seeing the show Friday at the Shoreline Amphitheatre. Never seen NIN before. Can't wait. ...
-Index: 80 Polarity: 0	Tweet ID: 2159	Username: gux_kun		Text: arhh; It's weka bug. = ="" and I spent almost two hours to find that out. crappy me
-Index: 81 Polarity: 4	Tweet ID: 2160	Username: GrfxGur		Text: @mitzs hey bud :) np I do so love my 50D; although I'd love a 5D mkII more
-Index: 82 Polarity: 4	Tweet ID: 2161	Username: joelgoodma		Text: @jonduenas @robynlyn just got us a 50D for the office. :D
-Index: 83 Polarity: 4	Tweet ID: 2162	Username: trevorcgibso		Text: Just picked up my new Canon 50D...it's beautiful!!  Prepare for some seriously awesome photography!
-Index: 84 Polarity: 4	Tweet ID: 2163	Username: ashpeckha		Text: Just got my new toy. Canon 50D. Love love love it!
-Index: 85 Polarity: 4	Tweet ID: 2164	Username: davidivin		Text: Learning about lambda calculus :)
-Index: 86 Polarity: 4	Tweet ID: 117	Username: Annimallove		Text: @surfit: I just checked my google for my business- blip shows up as the second entry! Huh. Is that a good or ba... ? http://blip.fm/~6emhv
-Index: 87 Polarity: 4	Tweet ID: 2165	Username: SCSanFrancisc		Text: #jobs #sittercity Help with taking care of sick child (East Palo Alto; CA) http://tinyurl.com/qwrr2m
-Index: 88 Polarity: 4	Tweet ID: 118	Username: J_Hol		Text: @phyreman9 Google is always a good place to look. Should've mentioned I worked on the Mustang w/ my Dad; @KimbleT.
-Index: 89 Polarity: 2	Tweet ID: 2166	Username: nfarza		Text: I'm moving to East Palo Alto!
-Index: 90 Polarity: 0	Tweet ID: 119	Username: vamsmac		Text: Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.
-Index: 91 Polarity: 0	Tweet ID: 120	Username: schronc		Text: US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders
-Index: 92 Polarity: 0	Tweet ID: 121	Username: MarissaLee		Text: omg so bored &amp; my tattoooos are so itchy!!  help! aha =)
-Index: 93 Polarity: 2	Tweet ID: 122	Username: robloposk		Text: I'm itchy and miserable!
-Index: 94 Polarity: 0	Tweet ID: 123	Username: EdwinLValenci		Text: @sekseemess no. I'm not itchy for now. Maybe later; lol.
-Index: 95 Polarity: 4	Tweet ID: 2171	Username: tylerli		Text: @ atebits I just finished watching your Stanford iPhone Class session. I really appreciate it. You Rock!
-Index: 96 Polarity: 4	Tweet ID: 124	Username: imusicmas		Text: RT @jessverr I love the nerdy Stanford human biology videos - makes me miss school. http://bit.ly/13t7NR
-Index: 97 Polarity: 4	Tweet ID: 2172	Username: souleaterj		Text: @jktweet Hi! Just saw your Stanford talk and really liked your advice. Just saying Hi from Singapore (yes the videos do get around)
-Index: 98 Polarity: 4	Tweet ID: 125	Username: drewloew		Text: @spinuzzi: Has been a bit crazy; with steep learning curve; but LyX is really good for long docs. For anything shorter; it would be insane.
-Index: 99 Polarity: 4	Tweet ID: 2173	Username: MbaAdmissio		Text: #MBA Admissions Tips Stanford GSB Deadlines and Essay Topics 2009-2010 http://tinyurl.com/pet4fd
-Index: 100 Polarity: 4	Tweet ID: 2174	Username: narai		Text: Ethics and nonprofits - http://bit.ly/qsXRp  #stanford #socialentrepreneurship
-Index: 101 Polarity: 4	Tweet ID: 2175	Username: JuanGi		Text: LAKERS tonight let's go!!!!
-Index: 102 Polarity: 4	Tweet ID: 2176	Username: Alexi_		Text: Will the Lakers kick the Nuggets ass tonight?
-Index: 103 Polarity: 0	Tweet ID: 2177	Username: one_eightee		Text: Oooooooh... North Korea is in troubleeeee! http://bit.ly/19epAH
-Index: 104 Polarity: 0	Tweet ID: 2178	Username: FOLKTALE0		Text: Wat the heck is North Korea doing!!??!! They just conducted powerful nuclear tests! Follow the link: http://www.msnbc.msn.com/id/30921379
-Index: 105 Polarity: 4	Tweet ID: 131	Username: VickyTigge		Text: I'm listening to ""P.Y.T"" by Danny Gokey &lt;3 &lt;3 &lt;3 Aww; he's so amazing. I &lt;3 him so much :)
-Index: 106 Polarity: 0	Tweet ID: 2179	Username: Mvsi		Text: Listening to Obama... Friggin North Korea...
-Index: 107 Polarity: 4	Tweet ID: 132	Username: babblyabbi		Text: is going to sleep then on a bike ride:]
-Index: 108 Polarity: 0	Tweet ID: 2180	Username: CFURNARO		Text: I just realized we three monkeys in the white Obama.Biden;Pelosi . Sarah Palin 2012
-Index: 109 Polarity: 0	Tweet ID: 133	Username: kisjoaqui		Text: cant sleep... my tooth is aching.
-Index: 110 Polarity: 2	Tweet ID: 2181	Username: Rachael9021		Text: @foxnews Pelosi should stay in China and never come back.
-Index: 111 Polarity: 0	Tweet ID: 134	Username: Whacktackula		Text: Blah; blah; blah same old same old. No plans today; going back to sleep I guess.
-Index: 112 Polarity: 0	Tweet ID: 2182	Username: TylerSchmid		Text: Nancy Pelosi gave the worst commencement speech I've ever heard. Yes I'm still bitter about this
-Index: 113 Polarity: 0	Tweet ID: 135	Username: Adrigonz		Text: glad i didnt do Bay to Breakers today; it's 1000 freaking degrees in San Francisco wtf
-Index: 114 Polarity: 0	Tweet ID: 2183	Username: KayJay_		Text: ugh. the amount of times these stupid insects have bitten me. Grr..
-Index: 115 Polarity: 0	Tweet ID: 136	Username: sulu3		Text: is in San Francisco at Bay to Breakers.
-Index: 116 Polarity: 4	Tweet ID: 2184	Username: BecCre		Text: Prettiest insects EVER - Pink Katydids: http://bit.ly/2Upw2p
-Index: 117 Polarity: 0	Tweet ID: 137	Username: schuyle		Text: just landed at San Francisco
-Index: 118 Polarity: 0	Tweet ID: 2185	Username: euthanasia8		Text: Just got barraged by a horde of insects hungry for my kitchen light. So scary.
-Index: 119 Polarity: 0	Tweet ID: 138	Username: MattBragon		Text: San Francisco today.  Any suggestions?
-Index: 120 Polarity: 0	Tweet ID: 139	Username: KennyTRolan		Text: ?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg
-Index: 121 Polarity: 4	Tweet ID: 2187	Username: connlock		Text: Just had McDonalds for dinner. :D It was goooood. Big Mac Meal. ;)
-Index: 122 Polarity: 0	Tweet ID: 140	Username: aMil		Text: started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?
-Index: 123 Polarity: 4	Tweet ID: 2188	Username: MamiYess		Text: AHH YES LOL IMA TELL MY HUBBY TO GO GET ME SUM MCDONALDS =]
-Index: 124 Polarity: 0	Tweet ID: 141	Username: Trazor		Text: ShaunWoo hate'n on AiG
-Index: 125 Polarity: 4	Tweet ID: 142	Username: mimknit		Text: @YarnThing you will not regret going to see Star Trek. It was AWESOME!
-Index: 126 Polarity: 4	Tweet ID: 2190	Username: Yuleineee		Text: Stopped to have lunch at McDonalds. Chicken Nuggetssss! :) yummmmmy.
-Index: 127 Polarity: 4	Tweet ID: 143	Username: GeeRe		Text: On my way to see Star Trek @ The Esquire.
-Index: 128 Polarity: 4	Tweet ID: 2191	Username: Xrachul		Text: Could go for a lot of McDonalds. i mean A LOT.
-Index: 129 Polarity: 4	Tweet ID: 144	Username: checkyesjes		Text: Going to see star trek soon with my dad.
-Index: 130 Polarity: 0	Tweet ID: 145	Username: renan		Text: annoying new trend on the internets:  people picking apart michael lewis and malcolm gladwell.  nobody wants to read that.
-Index: 131 Polarity: 4	Tweet ID: 2193	Username: xKimmeli		Text: my exam went good. @HelloLeonie: your prayers worked (:
-Index: 132 Polarity: 4	Tweet ID: 146	Username: kottkedotor		Text: Bill Simmons in conversation with Malcolm Gladwell http://bit.ly/j9o50
-Index: 133 Polarity: 4	Tweet ID: 2194	Username: laulaulaure		Text: Only one exam left; and i am so happy for it :D
-Index: 134 Polarity: 4	Tweet ID: 147	Username: davidm8		Text: Highly recommend: http://tinyurl.com/HowDavidBeatsGoliath by Malcolm Gladwell
-Index: 135 Polarity: 0	Tweet ID: 2195	Username: ellllle		Text: Math review. Im going to fail the exam.
-Index: 136 Polarity: 4	Tweet ID: 148	Username: livrea		Text: Blink by malcolm gladwell amazing book and The tipping point!
-Index: 137 Polarity: 0	Tweet ID: 2196	Username: LPSsports4		Text: Colin Powell rocked yesterday on CBS. Cheney needs to shut the hell up and go home.Powell is a man of Honor and served our country proudly
-Index: 138 Polarity: 4	Tweet ID: 149	Username: mikeaross		Text: Malcolm Gladwell might be my new man crush
-Index: 139 Polarity: 0	Tweet ID: 2197	Username: joah		Text: obviously not siding with Cheney here: http://bit.ly/19j2d
-Index: 140 Polarity: 0	Tweet ID: 150	Username: wendy9363		Text: omg. The commercials alone on ESPN are going to drive me nuts.
-Index: 141 Polarity: 4	Tweet ID: 151	Username: ClayFrankli		Text: @robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.
-Index: 142 Polarity: 4	Tweet ID: 152	Username: cURLTestin		Text: playing with cURL and the Twitter API
-Index: 143 Polarity: 4	Tweet ID: 153	Username: ringerdro		Text: Hello Twitter API ;)
-Index: 144 Polarity: 4	Tweet ID: 154	Username: danserfat		Text: playing with Java and the Twitter API
-Index: 145 Polarity: 4	Tweet ID: 2202	Username: paulobs		Text: Absolutely hilarious!!! from @mashable:  http://bit.ly/bccWt
-Index: 146 Polarity: 0	Tweet ID: 155	Username: raykolb		Text: @morind45 Because the twitter api is slow and most client's aren't good.
-Index: 147 Polarity: 4	Tweet ID: 2203	Username: christineros		Text: @mashable I never did thank you for including me in your Top 100 Twitter Authors! You Rock! (&amp; I New Wave :-D) http://bit.ly/EOrFV
-Index: 148 Polarity: 0	Tweet ID: 156	Username: CarolineVila		Text: yahoo answers can be a butt sometimes
-Index: 149 Polarity: 4	Tweet ID: 2204	Username: cfblogger		Text: Learning jQuery 1.3 Book Review - http://cfbloggers.org/?c=30629
-Index: 150 Polarity: 4	Tweet ID: 157	Username: rachelbegin		Text: is scrapbooking with Nic =D
-Index: 151 Polarity: 4	Tweet ID: 2205	Username: pdelsignor		Text: RT @shrop: Awesome JQuery reference book for Coda! http://www.macpeeps.com/coda/ #webdesign
-Index: 152 Polarity: 4	Tweet ID: 2206	Username: bskat		Text: I've been sending e-mails like crazy today to my contacts...does anyone have a contact at Goodby SIlverstein...I'd love to speak to them
-Index: 153 Polarity: 4	Tweet ID: 2207	Username: sc0ttma		Text: Adobe CS4 commercial by Goodby Silverstein: http://bit.ly/1aikhF
-Index: 154 Polarity: 4	Tweet ID: 2208	Username: designpla		Text: Goodby; Silverstein's new site... http://www.goodbysilverstein.com/ I enjoy it.
-Index: 155 Polarity: 4	Tweet ID: 172	Username: leedscentli		Text: RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR
-Index: 156 Polarity: 4	Tweet ID: 2220	Username: Drisgil		Text: Wow everyone at the Google I/O conference got free G2's with a month of unlimited service
-Index: 157 Polarity: 4	Tweet ID: 173	Username: sportsgirl50		Text: just changed my default pic to a Nike basketball cause bball is awesome!!!!!
-Index: 158 Polarity: 4	Tweet ID: 2221	Username: DearJellyHiJel		Text: @vkerkez dood I got a free google android phone at the I/O conference. The G2!
-Index: 159 Polarity: 4	Tweet ID: 174	Username: MatrixSystem		Text: Nike owns NBA Playoffs ads w/ LeBron; Kobe; Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding
-Index: 160 Polarity: 4	Tweet ID: 2222	Username: itamar		Text: @Orli the G2 is amazing btw; a HUGE improvement over the G1
-Index: 161 Polarity: 4	Tweet ID: 175	Username: cadburysgir		Text: 'Next time; I'll call myself Nike'
-Index: 162 Polarity: 4	Tweet ID: 2223	Username: dayna		Text: HTML 5 Demos! Lots of great stuff to come! Yes; I'm excited. :) http://htmlfive.appspot.com #io2009 #googleio
-Index: 163 Polarity: 4	Tweet ID: 176	Username: AddictedToFres		Text: New blog post: Nike SB Dunk Low Premium 'White Gum' http://tr.im/lOtT
-Index: 164 Polarity: 4	Tweet ID: 2224	Username: jackdaniels0		Text: @googleio http://twitpic.com/62shi - Yay! Happy place! Place place!  I love Google!
-Index: 165 Polarity: 0	Tweet ID: 177	Username: coreysmbpr		Text: RT @SmartChickPDX: Was just told that Nike layoffs started today :-(
-Index: 166 Polarity: 4	Tweet ID: 2225	Username: alpheus		Text: #GoogleIO | O3D - Bringing 3d graphics to the browser. Very nice tbh. Funfun.
-Index: 167 Polarity: 4	Tweet ID: 178	Username: PRolivi		Text: Back when I worked for Nike we had one fav word : JUST DO IT! :)
-Index: 168 Polarity: 4	Tweet ID: 179	Username: ErrantDream		Text: By the way; I'm totally inspired by this freaky Nike commercial: http://snurl.com/icgj9
-Index: 169 Polarity: 4	Tweet ID: 192	Username: niket		Text: giving weka an app engine interface; using the bird strike data for the tests; the logo is a given.
-Index: 170 Polarity: 4	Tweet ID: 194	Username: bigdigi		Text: Brand New Canon EOS 50D 15MP DSLR Camera Canon 17-85mm IS Lens ...: Web Technology Thread; Brand New Canon EOS 5.. http://u.mavrev.com/5a3t
-Index: 171 Polarity: 4	Tweet ID: 195	Username: justinbettma		Text: Class... The 50d is supposed to come today :)
-Index: 172 Polarity: 0	Tweet ID: 196	Username: read		Text: needs someone to explain lambda calculus to him! :(
-Index: 173 Polarity: 0	Tweet ID: 197	Username: BAK3		Text: Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.
-Index: 174 Polarity: 4	Tweet ID: 198	Username: SLICKSPI		Text: SHOUT OUTS TO ALL EAST PALO ALTO FOR BEING IN THE BUILDIN KARIZMAKAZE 50CAL GTA! ALSO THANKS TO PROFITS OF DOOM UNIVERSAL HEMPZ CRACKA......
-Index: 175 Polarity: 0	Tweet ID: 199	Username: ckwrigh		Text: @legalgeekery Yeahhhhhhhhh; I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.
-Index: 176 Polarity: 4	Tweet ID: 204	Username: souleaterj		Text: @accannis @edog1203 Great Stanford course. Thanks for making it available to the public! Really helpful and informative for starting off!
-Index: 177 Polarity: 2	Tweet ID: 205	Username: susanga		Text: NVIDIA Names Stanford's Bill Dally Chief Scientist; VP Of Research http://bit.ly/Fvvg9
-Index: 178 Polarity: 4	Tweet ID: 206	Username: jimmy_chan200		Text: New blog post: Harvard Versus Stanford - Who Wins? http://bit.ly/MCoCo
-Index: 179 Polarity: 4	Tweet ID: 207	Username: a_fi		Text: @ work til 6pm... lets go lakers!!!
-Index: 180 Polarity: 0	Tweet ID: 208	Username: luvslikep		Text: Damn you North Korea. http://bit.ly/KtMeQ
-Index: 181 Polarity: 0	Tweet ID: 209	Username: utsagrad12		Text: Can we just go ahead and blow North Korea off the map already?
-Index: 182 Polarity: 0	Tweet ID: 210	Username: stabotag		Text: North Korea; please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl
-Index: 183 Polarity: 0	Tweet ID: 211	Username: zed0		Text: Why the hell is Pelosi in freakin China? and on whose dime?
-Index: 184 Polarity: 0	Tweet ID: 212	Username: funky_old_ma		Text: Are YOU burning more cash $$$ than Chrysler and GM? Stop the financial tsunami. Where ""bailout"" means taking a handout!
-Index: 185 Polarity: 0	Tweet ID: 213	Username: malcoze		Text: insects have infected my spinach plant :(
-Index: 186 Polarity: 0	Tweet ID: 214	Username: AntoineTheRea		Text: wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day.mosquitos are the assholes of insects
-Index: 187 Polarity: 4	Tweet ID: 215	Username: jonwolper		Text: just got back from church; and I totally hate insects.
-Index: 188 Polarity: 0	Tweet ID: 216	Username: jachshor		Text: Just got mcdonalds goddam those eggs make me sick. O yeah Laker up date go lakers. Not much of an update? Well it's true so suck it
-Index: 189 Polarity: 4	Tweet ID: 217	Username: MamiYess		Text: omgg i ohhdee want mcdonalds damn i wonder if its open lol =]
-Index: 190 Polarity: 0	Tweet ID: 218	Username: jvici0u		Text: History exam studying ugh
-Index: 191 Polarity: 2	Tweet ID: 219	Username: enriqueniet		Text: I hate revision; it's so boring! I am totally unprepared for my exam tomorrow :( Things are not looking good...
-Index: 192 Polarity: 0	Tweet ID: 220	Username: Drummermatt_18		Text: Higher physics exam tommorow; not lookin forward to it much :(
-Index: 193 Polarity: 0	Tweet ID: 222	Username: filmcriticbet		Text: It's a bank holiday; yet I'm only out of work now. Exam season sucks:(
-Index: 194 Polarity: 0	Tweet ID: 223	Username: lvloca		Text: Cheney and Bush are the real culprits - http://fwix.com/article/939496
-Index: 195 Polarity: 0	Tweet ID: 224	Username: QCWofN		Text: Life?s a bitch? and so is Dick Cheney. #p2 #bipart #tlot #tcot #hhrs #GOP #DNC http://is.gd/DjyQ
-Index: 196 Polarity: 0	Tweet ID: 225	Username: jepac		Text: Dick Cheney's dishonest speech about torture; terror; and Obama. -Fred Kaplan Slate. http://is.gd/DiHg
-Index: 197 Polarity: 0	Tweet ID: 226	Username: ImportantQuote		Text: ""The Republican party is a bunch of anti-abortion zealots who couldn't draw flies to a dump."" -- Neal Boortz (just now; on the radio)
-Index: 198 Polarity: 0	Tweet ID: 227	Username: fwham		Text: is Twitter's connections API broken? Some tweets didn't make it to Twitter...
-Index: 199 Polarity: 0	Tweet ID: 228	Username: jos89		Text: i srsly hate the stupid twitter API timeout thing; soooo annoying!!!!! :(
-Index: 200 Polarity: 4	Tweet ID: 233	Username: jystewar		Text: @psychemedia I really liked @kswedberg's ""Learning jQuery"" book. http://bit.ly/pg0lT is worth a look too
-Index: 201 Polarity: 4	Tweet ID: 234	Username: cfblogger		Text: jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631
-Index: 202 Polarity: 4	Tweet ID: 235	Username: CaerusM		Text: Very Interesting Ad from Adobe by Goodby; Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT
-Index: 203 Polarity: 4	Tweet ID: 236	Username: HallandPartner		Text: Goodby Silverstein agency new site! http://www.goodbysilverstein.com/ Great!
-Index: 204 Polarity: 4	Tweet ID: 237	Username: suedecrus		Text: RT @designplay Goodby; Silverstein's new site: http://www.goodbysilverstein.com/ I enjoy it. *nice find!*
-Index: 205 Polarity: 4	Tweet ID: 238	Username: _imagework		Text: The ever amazing Psyop and Goodby Silverstein &amp; Partners for HP! http://bit.ly/g2rU8 Have to go play with After Effects now!
-Index: 206 Polarity: 4	Tweet ID: 239	Username: dustinrowle		Text: top ten most watched on Viral-Video Chart.  Love the nike #mostvaluablepuppets campaign from Wieden &amp; Kennedy http://bit.ly/nR1n9
-Index: 207 Polarity: 4	Tweet ID: 2295	Username: joshgammo		Text: Awesome viral marketing for ""Funny People"" http://www.nbc.com/yo-teach/
-Index: 208 Polarity: 4	Tweet ID: 2296	Username: KatyWheatley		Text: Watching a programme about the life of Hitler; its only enhancing my geekiness of history.
-Index: 209 Polarity: 4	Tweet ID: 251	Username: xzel		Text: zomg!!! I have a G2!!!!!!!
-Index: 210 Polarity: 4	Tweet ID: 252	Username: mobiledream		Text: Ok so lots of buzz from IO2009 but how lucky are they - a Free G2!! http://is.gd/Hyzl
-Index: 211 Polarity: 4	Tweet ID: 253	Username: crashfaste		Text: just got a free G2 android at google i/o!!!
-Index: 212 Polarity: 4	Tweet ID: 254	Username: dragona		Text: Guess I'll be retiring my G1 and start using my developer G2 woot #googleio
-Index: 213 Polarity: 2	Tweet ID: 255	Username: mastoo		Text: At GWT fireside chat @googleio
-Index: 214 Polarity: 4	Tweet ID: 256	Username: maex24		Text: I am happy for Philip being at GoogleIO today
-Index: 215 Polarity: 2	Tweet ID: 2355	Username: TiffanyBakke		Text: saw night at the museum out of sheer desperation. who is funding these movies?
-Index: 216 Polarity: 4	Tweet ID: 2356	Username: kezzum		Text: Night At The Museum 2? Pretty furkin good.
-Index: 217 Polarity: 4	Tweet ID: 2357	Username: bodhibugg		Text: Watching Night at the Museum - giggling.
-Index: 218 Polarity: 4	Tweet ID: 2358	Username: HistoryLuV3		Text: @pambeeslyjenna Jenna; I went to see Night At The Museum 2 today and I was so surprised to see three cast members from The Office...
-Index: 219 Polarity: 4	Tweet ID: 2359	Username: ErcDrs		Text: About to watch Night at the Museum with Ryan and Stacy
-Index: 220 Polarity: 4	Tweet ID: 2360	Username: aykataok		Text: Getting ready to go watch Night at the Museum 2.  Dum dum; you give me gum gum!
-Index: 221 Polarity: 0	Tweet ID: 2361	Username: Bcapot		Text: Back from seeing 'Star Trek' and 'Night at the Museum.' 'Star Trek' was amazing; but 'Night at the Museum' was; eh.
-Index: 222 Polarity: 4	Tweet ID: 2362	Username: crikket_churp		Text: just watched night at the museum 2! so stinkin cute!
-Index: 223 Polarity: 4	Tweet ID: 2363	Username: tish_tis		Text: So; Night at the Museum 2 was AWESOME! Much better than part 1. Next weekend we'll see Up.
-Index: 224 Polarity: 4	Tweet ID: 2364	Username: Lilimic		Text: I think I may have a new favorite restaurant. On our way to see ""Night at the Museum 2"".
-Index: 225 Polarity: 4	Tweet ID: 317	Username: specs2		Text: Lakers played great!  Cannot wait for Thursday night Lakers vs. ???
-Index: 226 Polarity: 4	Tweet ID: 2365	Username: stealing_secon		Text: UP! was sold out; so i'm seeing Night At The Museum 2. I'm __ years old.
-Index: 227 Polarity: 4	Tweet ID: 2366	Username: Pas_de_Cheva		Text: saw the new Night at the Museum and i loved it. Next is to go see UP in 3D
-Index: 228 Polarity: 0	Tweet ID: 2367	Username: lloydnelso		Text: It is a shame about GM. What if they are forced to make only cars the White House THINKS will sell? What do you think?
-Index: 229 Polarity: 0	Tweet ID: 2368	Username: overthro		Text: As u may have noticed; not too happy about the GM situation; nor AIG; Lehman; et al
-Index: 230 Polarity: 4	Tweet ID: 2369	Username: economywir		Text: Obama: Nationalization of GM to be short-term   (AP) http://tinyurl.com/md347r
-Index: 231 Polarity: 0	Tweet ID: 2370	Username: tradecru		Text: @Pittstock $GM good riddance.  sad though.
-Index: 232 Polarity: 0	Tweet ID: 2371	Username: ZendoDe		Text: I Will NEVER Buy a Government Motors Vehicle: Until just recently; I drove GM cars. Since 1988; when I bought a .. http://tinyurl.com/lulsw8
-Index: 233 Polarity: 0	Tweet ID: 2372	Username: rbmsho		Text: Having the old Coca-Cola guy on the GM board is stupid has heck! #tcot #ala
-Index: 234 Polarity: 0	Tweet ID: 2373	Username: Ash_Craigslis		Text: #RantsAndRaves The worst thing about GM (concord / pleasant hill / martinez): is the fucking UAW. ..   http://buzzup.com/4ueb
-Index: 235 Polarity: 4	Tweet ID: 2374	Username: BarackProblem		Text: Give a man a fish; u feed him for the day. Teach him to fish; u feed him for life. Buy him GM; and u F**K him over for good.
-Index: 236 Polarity: 0	Tweet ID: 2375	Username: ericdan		Text: The more I hear about this GM thing the more angry I get. Billions wasted; more bullshit. All for something like 40k employees and all the..
-Index: 237 Polarity: 4	Tweet ID: 328	Username: BrandKarm		Text: Hi there; does anyone have a great source for advice on viral marketing?... http://link.gs/YtZ8
-Index: 238 Polarity: 4	Tweet ID: 2376	Username: tradecru		Text: @QuantTrader i own a GM car and it is junk as far as quality compared to a honda
-Index: 239 Polarity: 4	Tweet ID: 329	Username: mattca		Text: Judd Apatow creates fake sitcom on NBC.com to market his new movie... viral marketing at its best. http://is.gd/K0yK
-Index: 240 Polarity: 0	Tweet ID: 2377	Username: ktsophi		Text: sad day...bankrupt GM
-Index: 241 Polarity: 4	Tweet ID: 330	Username: grahamgrimsha		Text: Here's A case study on how to use viral marketing to add over 10;000 people to your list http://snipr.com/i50oz
-Index: 242 Polarity: 4	Tweet ID: 2378	Username: nicolemg41		Text: is upset about the whole GM thing. life as i know it is so screwed up
-Index: 243 Polarity: 0	Tweet ID: 331	Username: nicoleism		Text: VIRAL MARKETING FAIL. This Acia Pills brand oughta get shut down for hacking into people's messenger's.  i get 5-6 msgs in a day! Arrrgh!
-Index: 244 Polarity: 0	Tweet ID: 2379	Username: ProofofVeno		Text: whoever is running time warner needs to be repeatedly raped by a rhino so they understand the consequences of putting out shitty cable svcs
-Index: 245 Polarity: 4	Tweet ID: 2380	Username: flywir		Text: Time Warner CEO hints at online fees for magazines      (AP) - Read from Mountain View;United States. Views 16209 http://bit.ly/UdFCH
-Index: 246 Polarity: 0	Tweet ID: 2381	Username: batchoutlos		Text: #WFTB Joining a bit late. My connection was down (boo time warner)
-Index: 247 Polarity: 0	Tweet ID: 2382	Username: floatingatol		Text: Cox or Time Warner?  Cox is cheaper and gets a B on dslreports.  TW is more expensive and gets a C.
-Index: 248 Polarity: 2	Tweet ID: 2383	Username: kippy		Text: i am furious with time warner and their phone promotions!
-Index: 249 Polarity: 0	Tweet ID: 2384	Username: iamton		Text: Just got home from chick-fil-a with the boys. Damn my internets down =( stupid time warner
-Index: 250 Polarity: 0	Tweet ID: 2385	Username: dcwhi		Text: could time-warner cable suck more?  NO.
-Index: 251 Polarity: 0	Tweet ID: 2386	Username: JustGL		Text: Pissed at Time Warner for causin me to have slow internet problems
-Index: 252 Polarity: 0	Tweet ID: 2387	Username: chaneykyot		Text: @sportsguy33 Ummm; having some Time Warner problems?
-Index: 253 Polarity: 0	Tweet ID: 2388	Username: ldmulle		Text: You guys see this?  Why does Time Warner have to suck so much ass?  Really wish I could get U-Verse at my apartment. http://bit.ly/s594j
-Index: 254 Polarity: 0	Tweet ID: 2389	Username: JohnTurlingto		Text: RT @sportsguy33 The upside to Time Warner: unhelpful phone operators   superslow on-site service. Crap; that's not an upside.
-Index: 255 Polarity: 0	Tweet ID: 2390	Username: johnsclear		Text: RT @sportsguy33: New Time Warner slogan: ""Time Warner; where we make you long for the days before cable.""
-Index: 256 Polarity: 0	Tweet ID: 2391	Username: ecorman		Text: confirmed: it's Time Warner's fault; not Facebook's; that fb is taking about 3 minutes to load. so tempted to switch to verizon =/
-Index: 257 Polarity: 0	Tweet ID: 2392	Username: matson		Text: @sportsguy33 Time Warner = epic fail
-Index: 258 Polarity: 0	Tweet ID: 2393	Username: YildirimNew		Text: Lawson to head Newedge Hong Kong http://bit.ly/xLQSD #business #china
-Index: 259 Polarity: 4	Tweet ID: 2394	Username: zedoma		Text: Weird Piano Guitar House in China! http://u2s.me/72i8
-Index: 260 Polarity: 2	Tweet ID: 2395	Username: theprovinc		Text: Send us your GM/Chevy photos http://tinyurl.com/luzkpq
-Index: 261 Polarity: 0	Tweet ID: 2396	Username: PeteHal		Text: I know. How sad is that?  RT @caseymercier: 1st day of hurricane season. That's less scarey than govt taking over GM.
-Index: 262 Polarity: 2	Tweet ID: 2397	Username: ram_zon		Text: GM files Bankruptcy; not a good sign...
-Index: 263 Polarity: 4	Tweet ID: 2398	Username: irishyank		Text: yankees won mets lost. its a good day.
-Index: 264 Polarity: 4	Tweet ID: 2399	Username: Erinthebigsi		Text: My dentist appt today was actually quite enjoyable.
-Index: 265 Polarity: 0	Tweet ID: 2400	Username: cassieeeelov		Text: I hate the effing dentist.
-Index: 266 Polarity: 4	Tweet ID: 2401	Username: johnnyt18		Text: @stevemoakler i had a dentist appt this morning and had the same conversation!
-Index: 267 Polarity: 0	Tweet ID: 2402	Username: b_bass		Text: @kirstiealley I hate going to the dentist.. !!!
-Index: 268 Polarity: 0	Tweet ID: 2403	Username: cmg1		Text: i hate the dentist....who invented them anyways?
-Index: 269 Polarity: 0	Tweet ID: 2404	Username: arianafly		Text: this dentist's office is cold :/
-Index: 270 Polarity: 2	Tweet ID: 2405	Username: jettelli		Text: Check this video out -- David After Dentist http://bit.ly/47aW2
-Index: 271 Polarity: 2	Tweet ID: 2406	Username: AdiOpERsOco		Text: First dentist appointment [in years] on Wednesday possibly.
-Index: 272 Polarity: 4	Tweet ID: 2407	Username: HallofChampion		Text: Tom Shanahan's latest column on SDSU and its NCAA Baseball Regional appearance: http://ow.ly/axhu
-Index: 273 Polarity: 2	Tweet ID: 2408	Username: SimpleManJes		Text: BaseballAmerica.com: Blog: Baseball America Prospects Blog ? Blog ... http://bit.ly/EtT8a
-Index: 274 Polarity: 2	Tweet ID: 2409	Username: Oregon_Liv		Text: Portland city politics may undo baseball park http://tinyurl.com/lpjquj
-Index: 275 Polarity: 4	Tweet ID: 2410	Username: AirDy		Text: RT @WaterSISWEB: CA Merced's water bottled by Safeway; resold at a profit: Wells are drying up across the county http://tinyurl.com/mb573s
-Index: 276 Polarity: 0	Tweet ID: 2411	Username: csquared		Text: dropped her broccoli walking home from safeway! ;( so depressed
-Index: 277 Polarity: 4	Tweet ID: 2412	Username: XPhile190		Text: @ronjon we don't have Safeway.
-Index: 278 Polarity: 4	Tweet ID: 2413	Username: LaurenAmo		Text: Just applied at Safeway!(: Yeeeee!
-Index: 279 Polarity: 0	Tweet ID: 2414	Username: TravisJensenS		Text: @ Safeway. Place is a nightmare right now. Bumming.
-Index: 280 Polarity: 2	Tweet ID: 2415	Username: Lovely_Laure		Text: at safeway with dad
-Index: 281 Polarity: 0	Tweet ID: 2416	Username: fugface8		Text: HATE safeway select green tea icecream! bought two cartons; what a waste of money.  &gt;_&lt;
-Index: 282 Polarity: 4	Tweet ID: 2417	Username: _JessicaJO		Text: Safeway with Marvin; Janelle; and Auntie Lhu
-Index: 283 Polarity: 4	Tweet ID: 2418	Username: mobileadgir		Text: Safeway offering mobile coupons http://bit.ly/ONH7w
-Index: 284 Polarity: 4	Tweet ID: 2419	Username: m_marches		Text: Phillies Driving in the Cadillac with the Top Down in Cali; Win 5-3 - http://tinyurl.com/nzcjqa
-Index: 285 Polarity: 4	Tweet ID: 2421	Username: TheDebtres		Text: Saved money by opting for grocery store trip and stocking food in hotel room fridge vs. eating out every night while out of town.
-Index: 286 Polarity: 4	Tweet ID: 2422	Username: face_of_bo		Text: Lounging around; eating Taco Bell and watching NCIS before work tonight. Need help staying awake.
-Index: 287 Polarity: 4	Tweet ID: 2426	Username: LaraAvn		Text: eating breakfast and then school
-Index: 288 Polarity: 0	Tweet ID: 2427	Username: elpasir		Text: still hungry after eating....
-Index: 289 Polarity: 4	Tweet ID: 2428	Username: Fitness_10		Text: 10 tips for healthy eating ? ResultsBy Fitness Blog :: Fitness ... http://bit.ly/62gFn
-Index: 290 Polarity: 4	Tweet ID: 2429	Username: ohmurde		Text: with the boyfriend; eating a quesadilla
-Index: 291 Polarity: 4	Tweet ID: 2430	Username: whoaobliviou		Text: Eating dinner. Meat; chips; and risotto.
-Index: 292 Polarity: 4	Tweet ID: 388	Username: Cristinella		Text: watching Night at The Museum . Lmao
-Index: 293 Polarity: 4	Tweet ID: 389	Username: MzJil		Text: i loved night at the museum!!!
-Index: 294 Polarity: 4	Tweet ID: 390	Username: Lynn_Sk		Text: going to see the new night at the museum  movie with my family oh boy a three year old in the movies fuin
-Index: 295 Polarity: 4	Tweet ID: 391	Username: bobster5		Text: just got back from the movies.  went to see the new night at the museum with rachel.  it was good
-Index: 296 Polarity: 4	Tweet ID: 392	Username: jordanforema		Text: Just saw the new Night at the Museum movie...it was...okay...lol 7\10
-Index: 297 Polarity: 4	Tweet ID: 393	Username: britre		Text: Going to see night at the museum 2 with tall boy
-Index: 298 Polarity: 4	Tweet ID: 394	Username: jell		Text: @shannyoday I will take you on a date to see night at the museum 2 whenever you want...it looks soooooo good
-Index: 299 Polarity: 4	Tweet ID: 395	Username: drohert		Text: no watching The Night At The Museum. Getting Really Good
-Index: 300 Polarity: 4	Tweet ID: 396	Username: sarahbrook		Text: Night at the Museum; Wolverine and junk food - perfect monday!
-Index: 301 Polarity: 4	Tweet ID: 397	Username: jeremyempir		Text: saw night at the museum 2 last night.. pretty crazy movie.. but the cast was awesome so it was well worth it. Robin Williams forever!
-Index: 302 Polarity: 4	Tweet ID: 398	Username: MirandaClue		Text: I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.
-Index: 303 Polarity: 4	Tweet ID: 399	Username: RGuad0		Text: Taking Katie to see Night at the Museum.  (she picked it)
-Index: 304 Polarity: 0	Tweet ID: 400	Username: xshalls		Text: Night at the Museum tonite instead of UP. :( oh well. that 4 yr old better enjoy it. LOL
-Index: 305 Polarity: 4	Tweet ID: 401	Username: EconomyUpdate		Text: GM says expects announcment on sale of Hummer soon - Reuters: WDSUGM says expects announcment on sale of Hummer .. http://bit.ly/4E1Fv
-Index: 306 Polarity: 0	Tweet ID: 402	Username: mshbrow		Text: It's unfortunate that after the Stimulus plan was put in place twice to help GM on the back of the American people has led to the inevitable
-Index: 307 Polarity: 0	Tweet ID: 403	Username: misschris6		Text: Tell me again why we are giving more $$ to GM?? We should use that $ for all the programs that support the unemployed.
-Index: 308 Polarity: 0	Tweet ID: 404	Username: artbynem		Text: @jdreiss oh yes but if GM dies it will only be worth more boo hahaha
-Index: 309 Polarity: 0	Tweet ID: 405	Username: windhamgir		Text: Time Warner cable is down again 3rd time since Memorial Day bummer!
-Index: 310 Polarity: 0	Tweet ID: 406	Username: mmmP		Text: I would rather pay reasonable yearly taxes for ""free"" fast internet; than get gouged by Time Warner for a slow connection.
-Index: 311 Polarity: 0	Tweet ID: 407	Username: NDEddieMa		Text: NOOOOOOO my DVR just died and I was only half way through the EA presser. Hate you Time Warner
-Index: 312 Polarity: 0	Tweet ID: 408	Username: yourboysdo		Text: F*ck Time Warner Cable!!! You f*cking suck balls!!! I have a $700 HD tv &amp; my damn HD channels hardly ever come in. Bullshit!!
-Index: 313 Polarity: 0	Tweet ID: 409	Username: Shazzainl		Text: time warner has the worse customer service ever. I will never use them again
-Index: 314 Polarity: 0	Tweet ID: 410	Username: dstal		Text: Time warner is the devil. Worst possible time for the Internet to go out.
-Index: 315 Polarity: 2	Tweet ID: 411	Username: ernestalfons		Text: Fuck no internet damn time warner!
-Index: 316 Polarity: 0	Tweet ID: 412	Username: kaaatie		Text: time warner really picks the worst time to not work. all i want to do is get to mtv.com so i can watch the hills. wtfffff.
-Index: 317 Polarity: 0	Tweet ID: 413	Username: JasonNegro		Text: I hate Time Warner! Soooo wish I had Vios. Cant watch the fricken Mets game w/o buffering. I feel like im watching free internet porn.
-Index: 318 Polarity: 0	Tweet ID: 414	Username: elphabablu		Text: Ahh...got rid of stupid time warner today &amp; now taking a nap while the roomies cook for me. Pretty good end for a monday :)
-Index: 319 Polarity: 0	Tweet ID: 415	Username: gabe_r		Text: Time Warner's HD line up is crap.
-Index: 320 Polarity: 0	Tweet ID: 416	Username: JoeyCircle		Text: is being fucked by time warner cable. didnt know modems could explode. and Susan Boyle sucks too!
-Index: 321 Polarity: 4	Tweet ID: 417	Username: ScooPos		Text: Time Warner Cable Pulls the Plug on 'The Girlfriend Experience' - (www.tinyurl.com/m595fk)
-Index: 322 Polarity: 0	Tweet ID: 418	Username: adamjleac		Text: Time Warner Cable slogan: Where calling it a day at 2pm Happens.
-Index: 323 Polarity: 4	Tweet ID: 419	Username: HYPHYROCKSTA		Text: Rocawear Heads to China; Building 300 Stores  - http://tinyurl.com/nofet3
-Index: 324 Polarity: 4	Tweet ID: 420	Username: BreakingBizNew		Text: Climate focus turns to Beijing: The United Nations; the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n
-Index: 325 Polarity: 4	Tweet ID: 421	Username: myfoxd		Text: myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba
-Index: 326 Polarity: 4	Tweet ID: 422	Username: drlombard		Text: Three China aerospace giants develop Tianjin Binhai  New Area;  22.9 B yuan invested   http://bit.ly/mMiDv
-Index: 327 Polarity: 0	Tweet ID: 423	Username: sinostrea		Text: http://xi.gs/04FO GM CEO: China will continue to be key partner
-Index: 328 Polarity: 4	Tweet ID: 424	Username: hammeraut		Text: RT @LATimesautos is now the time to buy a GM car? http://bit.ly/nRzlu
-Index: 329 Polarity: 0	Tweet ID: 425	Username: scorall		Text: Recovering from surgery..wishing @julesrenner was here :(
-Index: 330 Polarity: 4	Tweet ID: 426	Username: sardonnic		Text: My wrist still hurts. I have to get it looked at. I HATE the dr/dentist/scary places. :( Time to watch Eagle eye. If you want to join; txt!
-Index: 331 Polarity: 4	Tweet ID: 427	Username: BChasno		Text: Dentist tomorrow. Have to brush well in the morning. Like I make my hair all nice before I get it cut. Why?
-Index: 332 Polarity: 0	Tweet ID: 428	Username: LILJIZZE		Text: THE DENTIST LIED! "" U WON'T FEEL ANY DISCOMORT! PROB WON'T EVEN NEED PAIN PILLS"" MAN U TWIPPIN THIS SHIT HURT!! HOW MANY PILLS CAN I TAKE!!
-Index: 333 Polarity: 0	Tweet ID: 429	Username: giz200		Text: @kirstiealley my dentist is great but she's expensive...=(
-Index: 334 Polarity: 0	Tweet ID: 430	Username: cmonaussiecmo		Text: @kirstiealley Pet Dentist http://www.funnyville.com/fv/pictures/dogdentures.shtml
-Index: 335 Polarity: 4	Tweet ID: 431	Username: sorayaboub		Text: is studing math ;) tomorrow exam and dentist :)
-Index: 336 Polarity: 0	Tweet ID: 432	Username: jeffreymodes		Text: my dentist was wrong... WRONG
-Index: 337 Polarity: 0	Tweet ID: 433	Username: yowne		Text: Going to the dentist later.:|
-Index: 338 Polarity: 0	Tweet ID: 434	Username: CWilliams_Rlt		Text: Son has me looking at cars online.  I hate car shopping.  Would rather go to the dentist!  Anyone with a good car at a good price to sell?
-Index: 339 Polarity: 4	Tweet ID: 435	Username: SimpleManJes		Text: NCAA Baseball Super Regional - Rams Club http://bit.ly/Ro7nx
-Index: 340 Polarity: 2	Tweet ID: 436	Username: H3LLGWA		Text: just started playing Major League Baseball 2K9. http://raptr.com/H3LLGWAR
-Index: 341 Polarity: 0	Tweet ID: 437	Username: LouisvilleGrad		Text: Cardinals baseball advance to Super Regionals. Face CS-Fullerton Friday.
-Index: 342 Polarity: 2	Tweet ID: 438	Username: SwainFamil		Text: Sony coupon code.. Expires soon.. http://www.coupondork.com/r/1796
-Index: 343 Polarity: 2	Tweet ID: 439	Username: neeeeli		Text: waiting in line at safeway.
-Index: 344 Polarity: 0	Tweet ID: 440	Username: ryanliper		Text: luke and i got stopped walking out of safeway and asked to empty our pockets and lift our shirts. how jacked up is that?
-Index: 345 Polarity: 4	Tweet ID: 441	Username: eva		Text: Did not realize there is a gym above Safeway!
-Index: 346 Polarity: 4	Tweet ID: 442	Username: ronjo		Text: @XPhile1908 I have three words for you: ""Safeway dot com""
-Index: 347 Polarity: 4	Tweet ID: 443	Username: missleig		Text: Safeway is very rock n roll tonight
-Index: 348 Polarity: 0	Tweet ID: 444	Username: SharkKM		Text: Bout to hit safeway I gotta eat
-Index: 349 Polarity: 2	Tweet ID: 445	Username: bosZmo		Text: Jake's going to safeway!
-Index: 350 Polarity: 4	Tweet ID: 446	Username: penlynwilso		Text: Found a safeway. Picking up a few staples.
-Index: 351 Polarity: 4	Tweet ID: 447	Username: mobileadgir		Text: Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w
-Index: 352 Polarity: 0	Tweet ID: 448	Username: phantomzange		Text: The safeway bathroom still smells like ass!
-Index: 353 Polarity: 0	Tweet ID: 449	Username: Breez		Text: At safeway on elkhorn; they move like they're dead!
-Index: 354 Polarity: 0	Tweet ID: 451	Username: nonstopdiet		Text: Your Normal Weight (and How to Get There) ? Normal Eating Blog http://bit.ly/ZeT8O
-Index: 355 Polarity: 4	Tweet ID: 452	Username: janelleshank		Text: Is Eating and Watching Movies....
-Index: 356 Polarity: 4	Tweet ID: 2502	Username: stefanjo		Text: got a new pair of nike shoes. pics up later
-Index: 357 Polarity: 4	Tweet ID: 2503	Username: nsbor		Text: Nike SB Blazer High ""ACG"" Custom - Brad Douglas - http://timesurl.at/45a448
-Index: 358 Polarity: 2	Tweet ID: 456	Username: hanah		Text: eating sashimi
-Index: 359 Polarity: 4	Tweet ID: 2504	Username: marieforle		Text: Nike rocks. I'm super grateful for what I've done with them :) &amp; the European Division of NIKE is BEYOND! @whitSTYLES @muchasmuertes
-Index: 360 Polarity: 4	Tweet ID: 457	Username: Fie		Text: is eating  home made yema
-Index: 361 Polarity: 4	Tweet ID: 2505	Username: imflash		Text: Nike Air Yeezy Khaki/Pink Colorway Release - http://shar.es/bjfN
-Index: 362 Polarity: 2	Tweet ID: 458	Username: aaindefenz		Text: eating cake
-Index: 363 Polarity: 4	Tweet ID: 2506	Username: TheGlossMagazi		Text: @evelynbyrne have you tried Nike  ? V. addictive.
-Index: 364 Polarity: 4	Tweet ID: 2507	Username: MiniGree		Text: @erickoston That looks an awful lot like one of Nike's private jets....I'm just sayin....
-Index: 365 Polarity: 4	Tweet ID: 2508	Username: TracySute		Text: The Nike Training Club (beta) iPhone app looks very interesting.
-Index: 366 Polarity: 0	Tweet ID: 2529	Username: TobyJuanKenob		Text: argghhhh why won't  my jquery appear in safari bad safari !!!
-Index: 367 Polarity: 4	Tweet ID: 2530	Username: inBlog		Text: DevSnippets : jQuery Tools - Javascript UI Components for the Web... http://inblogs.org/go/hfuqt
-Index: 368 Polarity: 4	Tweet ID: 2531	Username: vmkob		Text: all about Ajax;jquery ;css ;JavaScript and more... (many examples) http://ajaxian.com/
-Index: 369 Polarity: 4	Tweet ID: 2532	Username: ghurso		Text: I'm ready to drop the pretenses; I am forever in love with jQuery; and I want to marry it. Sorry ladies; this nerd is jquery.spokenFor.js
-Index: 370 Polarity: 4	Tweet ID: 2533	Username: 5x1ll		Text: This is cold.. I was looking at google's chart//visualization API and found this jQuery ""wrapper"" for the API...  http://tinyurl.com/mq52bq
-Index: 371 Polarity: 4	Tweet ID: 2534	Username: bryal		Text: I spent most of my day reading a jQuery book. Now to start drinking some delirium tremens.
-Index: 372 Polarity: 4	Tweet ID: 2535	Username: vmkob		Text: jquery Selectors http://codylindley.com/jqueryselectors/
-Index: 373 Polarity: 4	Tweet ID: 2536	Username: maheshch		Text: How to implement a news ticker with jQuery and ten lines of code http://bit.ly/CZnFJ
-Index: 374 Polarity: 4	Tweet ID: 2537	Username: MyBenchmarkMt		Text: What's Buffet Doing? Warren Buffett Kicks Butt In Battle of the Boots: Posted By:Alex Crippe.. http://bit.ly/AUIzO
-Index: 375 Polarity: 4	Tweet ID: 2538	Username: PragCapitalis		Text: SUPER INVESTORS: A great weekend read here from Warren Buffet. Oldie; but a goodie. http://tinyurl.com/oqxgga
-Index: 376 Polarity: 4	Tweet ID: 2539	Username: SmartMouthBroa		Text: I'm truly braindead.  I couldn't come up with Warren Buffet's name to save my soul
-Index: 377 Polarity: 4	Tweet ID: 2540	Username: goncalo		Text: reading Michael Palin book; The Python Years...great book. I also recommend Warren Buffet &amp; Nelson Mandela's bio
-Index: 378 Polarity: 4	Tweet ID: 2541	Username: BobtheRobo		Text: I mean; I'm down with Notre Dame if I have to.  It's a good school; I'd be closer to Dan; I'd enjoy it.
-Index: 379 Polarity: 0	Tweet ID: 2543	Username: Hittma		Text: I can't watch TV without a Tivo.  And after all these years; the Time/Warner DVR  STILL sucks. http://www.davehitt.com/march03/twdvr.html
-Index: 380 Polarity: 4	Tweet ID: 2544	Username: aiba		Text: I'd say some sports writers are idiots for saying Roger Federer is one of the best ever in Tennis.  Roger Federer is THE best ever in Tennis
-Index: 381 Polarity: 4	Tweet ID: 2545	Username: nyctime		Text: I still love my Kindle2 but reading The New York Times on it does not feel natural. I miss the Bloomingdale ads.
-Index: 382 Polarity: 4	Tweet ID: 2546	Username: k8tb5		Text: I love my Kindle2. No more stacks of books to trip over on the way to the loo.
-Index: 383 Polarity: 0	Tweet ID: 2558	Username: taylorcarriga		Text: Although today's keynote rocked; for every great announcement; AT&amp;T shit on us just a little bit more.
-Index: 384 Polarity: 4	Tweet ID: 2559	Username: susanjan		Text: @sheridanmarfil - its not so much my obsession with cell phones; but the iphone!  i'm a slave to at&amp;t forever because of it. :)
-Index: 385 Polarity: 4	Tweet ID: 2560	Username: stick0		Text: @freitasm oh I see. I thought AT&amp;T were 900MHz WCDMA?
-Index: 386 Polarity: 0	Tweet ID: 2561	Username: CaptainCraigo		Text: @Plip Where did you read about tethering support Phil?  Just AT&amp;T or will O2 be joining in?
-Index: 387 Polarity: 0	Tweet ID: 2562	Username: iPhoneFuzzbal		Text: Fuzzball is more fun than AT&amp;T ;P http://fuzz-ball.com/twitter
-Index: 388 Polarity: 0	Tweet ID: 2563	Username: itsolivi		Text: Today is a good day to dislike AT&amp;T. Vote out of office indeed; @danielpunkass
-Index: 389 Polarity: 4	Tweet ID: 2564	Username: kyrabeck		Text: GOT MY WAVE SANDBOX INVITE! Extra excited! Too bad I have class now... but I'll play with it soon enough! #io2009 #wave
-Index: 390 Polarity: 0	Tweet ID: 2575	Username: auxesi		Text: looks like summize has gone down. too many tweets from WWDC perhaps?
-Index: 391 Polarity: 4	Tweet ID: 2576	Username: deedeewarre		Text: I hope the girl at work  buys my Kindle2
-Index: 392 Polarity: 4	Tweet ID: 2577	Username: RogerSPres		Text: Missed this insight-filled May column: One smart guy looking closely at why he's impressed with Kindle2 http://bit.ly/i0peY @wroush
-Index: 393 Polarity: 4	Tweet ID: 2578	Username: kmozen		Text: @sklososky Thanks so much!!! ...from one of your *very* happy Kindle2 winners ; ) I was so surprised; fabulous. Thank you! Best; Kathleen
-Index: 394 Polarity: 4	Tweet ID: 531	Username: CrownRoyal		Text: i love Dwight Howard's vitamin water commercial... now i wish he was with NIKE and not adidas. lol.
-Index: 395 Polarity: 0	Tweet ID: 2579	Username: Jesssssi		Text: Man I kinda dislike Apple right now. Case in point: the iPhone 3GS. Wish there was a video recorder app. Please?? http://bit.ly/DZm1T
-Index: 396 Polarity: 0	Tweet ID: 532	Username: MrG		Text: Found NOTHING at Nike Factory :/ Off to Banana Republic Outlet! http://myloc.me/2zic
-Index: 397 Polarity: 4	Tweet ID: 533	Username: ngngfranci		Text: iPhone May Get Radio Tagging and Nike  : Recently-released iTunes version 8.2 suggests that VoiceOver functional.. http://tinyurl.com/oq5ctc
-Index: 398 Polarity: 4	Tweet ID: 534	Username: mikelongde		Text: is lovin his Nike  already and that's only from running on the spot in his bedroom
-Index: 399 Polarity: 4	Tweet ID: 556	Username: imgsearc		Text: Launched! http://imgsearch.net  #imgsearch #ajax #jquery #webapp
-Index: 400 Polarity: 4	Tweet ID: 557	Username: teagon		Text: @matthewcyan I finally got around to using jquery to make my bio collapse. Yay for slide animations.
-Index: 401 Polarity: 4	Tweet ID: 558	Username: marcrobert		Text: RT @jquery: The Ultimate jQuery List - http://jquerylist.com/
-Index: 402 Polarity: 4	Tweet ID: 559	Username: jacobrothstei		Text: I just extracted and open-sourced a jQuery plugin from Stormweight to highlight text with a regular expression: http://bit.ly/ybJKb
-Index: 403 Polarity: 4	Tweet ID: 560	Username: bedroomatio		Text: @anna_debenham what was the php jquery hack?
-Index: 404 Polarity: 2	Tweet ID: 561	Username: vmkob		Text: jQuery Cheat Sheet http://www.javascripttoolbox.com/jquery/cheatsheet/
-Index: 405 Polarity: 4	Tweet ID: 562	Username: NewTechBook		Text: Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5
-Index: 406 Polarity: 4	Tweet ID: 563	Username: adthomas		Text: @PDubyaD right!!! LOL we'll get there!! I have high expectations; Warren Buffet style.
-Index: 407 Polarity: 4	Tweet ID: 564	Username: Alfred0465		Text: RT @blknprecious1: RT GREAT @dbroos ""Someone's sitting in the shade today because someone planted a tree a long time ago.""- Warren Buffet
-Index: 408 Polarity: 4	Tweet ID: 565	Username: LovelyMisk		Text: Warren Buffet on the economy http://ping.fm/Lau0p
-Index: 409 Polarity: 4	Tweet ID: 566	Username: adamgilme		Text: Warren Buffet became (for a time) the richest man in the United States; not by working but investing in 1 Big idea which lead to the fortune
-Index: 410 Polarity: 4	Tweet ID: 567	Username: PatfaceCatfac		Text: According to the create a school; Notre Dame will have 7 receivers in NCAA 10 at 84 or higher rating :) *sweet*
-Index: 411 Polarity: 4	Tweet ID: 568	Username: MY_NBA_PLAYOFF		Text: All-Star Basketball Classic Tuesday Features Top Talent: Chattanooga's Notre Dame High School will play host.. http://bit.ly/qltJA
-Index: 412 Polarity: 4	Tweet ID: 569	Username: rachaelbende		Text: @BlondeBroad it's definitely under warranty &amp; my experience is the amazon support for kindle is great! had to contact them about my kindle2
-Index: 413 Polarity: 4	Tweet ID: 570	Username: aqrin		Text: RT Look; Available !Amazon Kindle2 &amp; Kindle DX; Get it Here: http://short.to/87ub The Top Electronic Book Reader Period; free 2 day ship ...
-Index: 414 Polarity: 0	Tweet ID: 571	Username: davepurcel		Text: Time Warner Road Runner customer support here absolutely blows. I hate not having other high-speed net options. I'm ready to go nuclear.
-Index: 415 Polarity: 0	Tweet ID: 572	Username: MarleyLuv2		Text: Time Warner cable phone reps r dumber than nails!!!!! UGH! Cable was working 10 mins ago now its not WTF!
-Index: 416 Polarity: 0	Tweet ID: 573	Username: acomicbookgir		Text: @siratomofbones we tried but Time Warner wasn't being nice so we recorded today. :)
-Index: 417 Polarity: 0	Tweet ID: 574	Username: MichelleEReaga		Text: OMG - time warner f'ed up my internet install - instead of today  its now NEXT saturday - another week w/o internet! &amp;$*ehfa^V9fhg[*# fml.
-Index: 418 Polarity: 0	Tweet ID: 575	Username: jpaje1		Text: wth..i have never seen a line this loooong at time warner before; ugh.
-Index: 419 Polarity: 0	Tweet ID: 576	Username: JessSlevi		Text: Impatiently awaiting the arrival of the time warner guy. It's way too pretty to be inside all afternoon
-Index: 420 Polarity: 2	Tweet ID: 577	Username: jworthingto		Text: Man accosts Roger Federer during French Open http://ff.im/3HCPT
-Index: 421 Polarity: 0	Tweet ID: 578	Username: R0B3rt		Text: Naive Bayes using EM for Text Classification. Really Frustrating...
-Index: 422 Polarity: 4	Tweet ID: 585	Username: Tammy		Text: We went to Stanford University today. Got a tour. Made me want to go back to college. It's also decided all of our kids will go there.
-Index: 423 Polarity: 4	Tweet ID: 586	Username: elliottn		Text: Investigation pending on death of Stanford CS prof / Google mentor Rajeev Motwani http://bit.ly/LwOUR tip @techmeme
-Index: 424 Polarity: 4	Tweet ID: 587	Username: Shibuki_ku		Text: I'm going to bed. It was a successful weekend. Stanford; here I come.
-Index: 425 Polarity: 0	Tweet ID: 588	Username: painhatelov		Text: @KarrisFoxy If you're being harassed by calls about your car warranty; changing your number won't fix that. They call every number. #d-bags
-Index: 426 Polarity: 0	Tweet ID: 589	Username: russdavisdotco		Text: Just blocked United Blood Services using Google Voice. They call more than those Car Warranty guys.
-Index: 427 Polarity: 0	Tweet ID: 594	Username: jamesmakeseye		Text: #at&amp;t is complete fail.
-Index: 428 Polarity: 0	Tweet ID: 595	Username: mikeyi		Text: @broskiii OH SNAP YOU WORK AT AT&amp;T DON'T YOU
-Index: 429 Polarity: 0	Tweet ID: 596	Username: nakiasmil		Text: @Mbjthegreat i really dont want AT&amp;T phone service..they suck when it comes to having a signal
-Index: 430 Polarity: 0	Tweet ID: 597	Username: wiiske		Text: I say we just cut out the small talk: AT&amp;T's new slogan: F__k you; give us your money. (Apologies to Bob Geldof.)
-Index: 431 Polarity: 0	Tweet ID: 598	Username: brk		Text: pissed about at&amp;t's mid-contract upgrade price for the iPhone (it's $200 more) I'm not going to pay $499 for something I thought was $299
-Index: 432 Polarity: 0	Tweet ID: 599	Username: jesusmbae		Text: Safari 4 is fast :) Even on my shitty AT&amp;T tethering.
-Index: 433 Polarity: 0	Tweet ID: 600	Username: Claystation		Text: @ims What is AT&amp;T fucking up?
-Index: 434 Polarity: 0	Tweet ID: 601	Username: matthewphewe		Text: @springsingfiend @dvyers @sethdaggett @jlshack AT&amp;T dropped the ball and isn't supporting crap with the new iPhone 3.0... FAIL #att SUCKS!!!
-Index: 435 Polarity: 0	Tweet ID: 602	Username: chelseabo		Text: @MMBarnhill yay; glad you got the phone! Still; damn you; AT&amp;T.
-Index: 436 Polarity: 4	Tweet ID: 603	Username: girgel		Text: Google Wave Developer Sandbox Account Request http://bit.ly/2NYlc
-Index: 437 Polarity: 0	Tweet ID: 613	Username: StrategisAd		Text: Talk is Cheap: Bing that; I?ll stick with Google. http://bit.ly/XC3C8
-Index: 438 Polarity: 0	Tweet ID: 614	Username: fabulousaur		Text: @defsounds WTF is the point of deleting tweets if they can still be found in summize and searches? Twitter; please fix that. Thanks and bye
-Index: 439 Polarity: 0	Tweet ID: 626	Username: dryligh		Text: @mattcutts have google profiles stopped showing up in searches? cant see them anymore
-Index: 440 Polarity: 4	Tweet ID: 627	Username: ManiKarthi		Text: @ArunBasilLal I love Google Translator too ! :D Good day mate !
-Index: 441 Polarity: 4	Tweet ID: 14045	Username: boardcentra		Text: Twitter Stock buzz: $AAPL $ES_F $SPY $SPX $PALM  (updated: 12:00 PM)
-Index: 442 Polarity: 4	Tweet ID: 14046	Username: JimFace		Text: getting ready to test out some burger receipes this weekend. Bobby Flay has some great receipes to try. Thanks Bobby.
-Index: 443 Polarity: 4	Tweet ID: 14049	Username: wetfishdesign		Text: @johncmayer is Bobby Flay joining you?
-Index: 444 Polarity: 4	Tweet ID: 14050	Username: A_TALL_BLOND		Text: i lam so in love with Bobby Flay... he is my favorite. RT @terrysimpson: @bflay you need a place in Phoenix. We have great peppers here!
-Index: 445 Polarity: 4	Tweet ID: 14069	Username: rooney_tune		Text: I just created my first LaTeX file from scratch. That didn't work out very well. (See @amandabittner ; it's a great time waster)
-Index: 446 Polarity: 4	Tweet ID: 14070	Username: roguemovemen		Text: using Linux and loving it - so much nicer than windows... Looking forward to using the wysiwyg latex editor!
-Index: 447 Polarity: 4	Tweet ID: 14071	Username: yomca		Text: After using LaTeX a lot; any other typeset mathematics just looks hideous.
-Index: 448 Polarity: 2	Tweet ID: 14072	Username: proggi		Text: Ask Programming: LaTeX or InDesign?: submitted by calcio1 [link] [1 comment] http://tinyurl.com/myfmf7
-Index: 449 Polarity: 0	Tweet ID: 14073	Username: sam33		Text: On that note; I hate Word. I hate Pages. I hate LaTeX. There; I said it. I hate LaTeX. All you TEXN3RDS can come kill me now.
-Index: 450 Polarity: 4	Tweet ID: 14074	Username: iamtheonlyjosi		Text: Ahhh... back in a *real* text editing environment. I &lt;3 LaTeX.
-Index: 451 Polarity: 4	Tweet ID: 13051	Username: sfkerropi		Text: has a date with bobby flay and gut fieri from food network
-Index: 452 Polarity: 0	Tweet ID: 14075	Username: plutopup		Text: Trouble in Iran; I see. Hmm. Iran. Iran so far away. #flockofseagullsweregeopoliticallycorrect
-Index: 453 Polarity: 4	Tweet ID: 13052	Username: tessala		Text: Excited about seeing Bobby Flay and Guy Fieri tomorrow at the Great American Food &amp; Music Fest!
-Index: 454 Polarity: 0	Tweet ID: 14076	Username: captain_pet		Text: Reading the tweets coming out of Iran... The whole thing is terrifying and incredibly sad...
-Index: 455 Polarity: 4	Tweet ID: 13053	Username: ZFilt		Text: Gonna go see Bobby Flay 2moro at Shoreline. Eat and drink. Gonna be good.
-Index: 456 Polarity: 4	Tweet ID: 13054	Username: annieblan		Text: can't wait for the great american food and music festival at shoreline tomorrow.  mmm...katz pastrami and bobby flay. yes please.
-Index: 457 Polarity: 4	Tweet ID: 13055	Username: LAURAcBRYA		Text: My dad was in NY for a day; we ate at MESA grill last night and met Bobby Flay. So much fun; except I completely lost my voice today.
-Index: 458 Polarity: 0	Tweet ID: 13073	Username: NathanChalmer		Text: Fighting with LaTex. Again...
-Index: 459 Polarity: 4	Tweet ID: 13074	Username: LoonyLongbotto		Text: @Iheartseverus we love you too and don't want you to die!!!!!!  Latex = the devil
-Index: 460 Polarity: 4	Tweet ID: 13075	Username: QuadErro		Text: 7 hours. 7 hours of inkscape crashing; normally solid as a rock. 7 hours of LaTeX complaining at the slightest thing. I can't take any more.
-Index: 461 Polarity: 2	Tweet ID: 13076	Username: musicmus		Text: How to Track Iran with Social Media: http://bit.ly/2BoqU
-Index: 462 Polarity: 0	Tweet ID: 13077	Username: sketoak		Text: Shit's hitting the fan in Iran...craziness indeed #iranelection
-Index: 463 Polarity: 0	Tweet ID: 13078	Username: jamespenycat		Text: Monday already. Iran may implode. Kitchen is a disaster. @annagoss seems happy. @sebulous had a nice weekend and @goldpanda is great. whoop.
-Index: 464 Polarity: 4	Tweet ID: 7011	Username: jimhon		Text: @cwong08 I have a Kindle2 (&amp; Sony PRS-500). Like it! Physical device feels good. Font is nice. Pg turns are snappy enuf. UI a little klunky.
-Index: 465 Polarity: 4	Tweet ID: 7012	Username: Ant_War		Text: The #Kindle2 seems the best eReader; but will it work in the UK and where can I get one?
-Index: 466 Polarity: 4	Tweet ID: 7015	Username: popitlocki		Text: I have a google addiction. Thank you for pointing that out; @annamartin123. Hahaha.
-Index: 467 Polarity: 2	Tweet ID: 8051	Username: MalloryRayn		Text: Off to the bank to get my new visa platinum card
-Index: 468 Polarity: 0	Tweet ID: 8052	Username: _abi		Text: dearest @google; you rich bastards! the VISA card you sent me doesn't work. why screw a little guy like me?
-Index: 469 Polarity: 4	Tweet ID: 7055	Username: FionaSara		Text: @ruby_gem My primary debit card is Visa Electron.
-Index: 470 Polarity: 4	Tweet ID: 2010	Username: Moc508		Text: I have to go to Booz Allen Hamilton for a 2hr meeting :(  But then i get to go home :)
-Index: 471 Polarity: 4	Tweet ID: 2011	Username: citizenofindi		Text: The great Indian tamasha truly will unfold from May 16; the result day for Indian General Election.
-Index: 472 Polarity: 4	Tweet ID: 2012	Username: Melonz		Text: @crlane I have the Kindle2. I've seen pictures of the DX; but haven't seen it in person. I love my Kindle - I'm on it everyday.
-Index: 473 Polarity: 4	Tweet ID: 2013	Username: SPReview		Text: @criticalpath Such an awesome idea - the  continual learning program with a Kindle2  http://bit.ly/1ZLfF
-Index: 474 Polarity: 4	Tweet ID: 2014	Username: ha_nobit		Text: ok.. do nothing.. just thinking about 40D
-Index: 475 Polarity: 4	Tweet ID: 2015	Username: Jen2Square		Text: @faithbabywear Ooooh; what model are you getting??? I have the 40D and LOVE LOVE LOVE LOVE it!
-Index: 476 Polarity: 4	Tweet ID: 2018	Username: __ne		Text: The Times of India: The wonder that is India's election. http://bit.ly/p7u1H
-Index: 477 Polarity: 4	Tweet ID: 1002	Username: jhall51		Text: reading on my new Kindle2!
-Index: 478 Polarity: 4	Tweet ID: 1003	Username: HappyWin		Text: My Kindle2 came and I LOVE it! :)
-Index: 479 Polarity: 4	Tweet ID: 1004	Username: Teaguem200		Text: LOVING my new Kindle2.  Named her Kendra in case u were wondering. The ""cookbook"" is THE tool cuz it tells u all the tricks!  Best gift EVR!
-Index: 480 Polarity: 0	Tweet ID: 1005	Username: dailysourcede		Text: The real AIG scandal / http://bit.ly/b82Px
-Index: 481 Polarity: 4	Tweet ID: 1006	Username: gandhiram		Text: Any twitter to aprs apps yet?
-Index: 482 Polarity: 4	Tweet ID: 1007	Username: delpo		Text: 45 Pros You Should Be Following on Twitter - http://is.gd/sMbZ
-Index: 483 Polarity: 4	Tweet ID: 1008	Username: lingbellbel		Text: Obama is quite a good comedian! check out his dinner speech on CNN :) very funny jokes.
-Index: 484 Polarity: 4	Tweet ID: 1009	Username: motsandc		Text: ' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !! Great speech..
-Index: 485 Polarity: 4	Tweet ID: 1010	Username: micko		Text: I like this guy : ' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !!
-Index: 486 Polarity: 4	Tweet ID: 1011	Username: meggentil		Text: Obama's speech was pretty awesome last night! http://bit.ly/IMXUM
-Index: 487 Polarity: 4	Tweet ID: 1012	Username: failnes		Text: Reading  ""Bill Clinton Fail - Obama Win?"" http://tinyurl.com/pcyxj7
-Index: 488 Polarity: 4	Tweet ID: 1013	Username: kled		Text: Obama More Popular Than U.S. Among Arabs: Survey: President Barack Obama's popularity in leading Arab countries .. http://tinyurl.com/prlvqu
-Index: 489 Polarity: 4	Tweet ID: 1014	Username: LaurelEdelstei		Text: Obama's got JOKES!! haha just got to watch a bit of his after dinner speech from last night... i'm in love with mr. president ;)
-Index: 490 Polarity: 0	Tweet ID: 1015	Username: chelseabigas		Text: LEbron james got in a car accident i guess..just heard it on evening news...wow i cant believe it..will he be ok ? http://twtad.com/69750
-Index: 491 Polarity: 4	Tweet ID: 1016	Username: Smitty47		Text: is it me or is this the best the playoffs have been in years oh yea lebron and melo in the finals
-Index: 492 Polarity: 4	Tweet ID: 1017	Username: PurpleGorillaZ		Text: @khalid0456 No; Lebron is the best
-Index: 493 Polarity: 4	Tweet ID: 1018	Username: MsStach		Text: @the_real_usher LeBron is cool.  I like his personality...he has good character.
-Index: 494 Polarity: 4	Tweet ID: 1019	Username: undefeated31		Text: Watching Lebron highlights. Damn that niggas good
-Index: 495 Polarity: 4	Tweet ID: 1020	Username: BI_POLAROI		Text: @Lou911 Lebron is MURDERING shit.
-Index: 496 Polarity: 4	Tweet ID: 1021	Username: IAmNoeAnge		Text: @uscsports21 LeBron is a monsta and he is only 24. SMH The world ain't ready.
-Index: 497 Polarity: 4	Tweet ID: 1022	Username: ksmedi		Text: @cthagod when Lebron is done in the NBA he will probably be greater than Kobe. Like u said Kobe is good but there alot of 'good' players.
-Index: 498 Polarity: 4	Tweet ID: 1023	Username: PrEttIBoIGaR		Text: KOBE IS GOOD BT LEBRON HAS MY VOTE
+Index: 1 Tweet ID: 1024, Username: kellan3, Polarity: 0, Text: Kobe is the best in the world not lebron .
+Index: 2 Tweet ID: 1025, Username: jsincere15, Polarity: 4, Text: @asherroth World Cup 2010 Access?? Damn; that's a good look!
+Index: 3 Tweet ID: 1026, Username: bire, Polarity: 4, Text: Just bought my tickets for the 2010 FIFA World Cup in South Africa. Its going to be a great summer. http://bit.ly/9GEZI
+Index: 4 Tweet ID: 3, Username: tprya, Polarity: 4, Text: @stellargirl I loooooooovvvvvveee my Kindle2. Not that the DX is cool; but the 2 is fantastic in its own right.
+Index: 5 Tweet ID: 4, Username: vcu45, Polarity: 4, Text: Reading my kindle2...  Love it... Lee childs is good read.
+Index: 6 Tweet ID: 5, Username: chadf, Polarity: 4, Text: Ok; first assesment of the #kindle2 ...it fucking rocks!!!
+Index: 7 Tweet ID: 6, Username: SIX1, Polarity: 4, Text: @kenburbary You'll love your Kindle2. I've had mine for a few months and never looked back. The new big one is huge! No need for remorse! :)
+Index: 8 Tweet ID: 7, Username: yamaram, Polarity: 4, Text: @mikefish  Fair enough. But i have the Kindle2 and I think it's perfect  :)
+Index: 9 Tweet ID: 1031, Username: DoAndroidsDrea, Polarity: 2, Text: Share: Disruption...Fred Wilson's slides for his talk at Google HQ  http://bit.ly/Bo8PG
+Index: 10 Tweet ID: 8, Username: GeorgeVHulm, Polarity: 4, Text: @richardebaker no. it is too big. I'm quite happy with the Kindle2.
+Index: 11 Tweet ID: 9, Username: Seth93, Polarity: 0, Text: Fuck this economy. I hate aig and their non loan given asses.
+Index: 12 Tweet ID: 10, Username: dcostali, Polarity: 4, Text: Jquery is my new best friend.
+Index: 13 Tweet ID: 11, Username: PJ_Kin, Polarity: 4, Text: Loves twitter
+Index: 14 Tweet ID: 12, Username: mandanicol, Polarity: 4, Text: how can you not love Obama? he makes jokes about himself.
+Index: 15 Tweet ID: 13, Username: jpe, Polarity: 2, Text: Check this video out -- President Obama at the White House Correspondents' Dinner http://bit.ly/IMXUM
+Index: 16 Tweet ID: 14, Username: kyleseller, Polarity: 0, Text: @Karoli I firmly believe that Obama/Pelosi have ZERO desire to be civil.  It's a charade and a slogan; but they want to destroy conservatism
+Index: 17 Tweet ID: 15, Username: theviewfan, Polarity: 4, Text: House Correspondents dinner was last night whoopi; barbara &amp; sherri went; Obama got a standing ovation
+Index: 18 Tweet ID: 16, Username: MumsF, Polarity: 4, Text: Watchin Espn..Jus seen this new Nike Commerical with a Puppet Lebron..sh*t was hilarious...LMAO!!!
+Index: 19 Tweet ID: 17, Username: vincentx24, Polarity: 0, Text: dear nike; stop with the flywire. that shit is a waste of science. and ugly. love; @vincentx24x
+Index: 20 Tweet ID: 18, Username: cameronwyli, Polarity: 4, Text: #lebron best athlete of our generation; if not all time (basketball related) I don't want to get into inter-sport debates about   __1/2
+Index: 21 Tweet ID: 19, Username: luv824, Polarity: 0, Text: I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.
+Index: 22 Tweet ID: 20, Username: mtgilliki, Polarity: 4, Text: i love lebron. http://bit.ly/PdHur
+Index: 23 Tweet ID: 21, Username: ursecretdezir, Polarity: 0, Text: @ludajuice Lebron is a Beast; but I'm still cheering 4 the A..til the end.
+Index: 24 Tweet ID: 22, Username: Native_0, Polarity: 4, Text: @Pmillzz lebron IS THE BOSS
+Index: 25 Tweet ID: 23, Username: princezzcut, Polarity: 4, Text: @sketchbug Lebron is a hometown hero to me; lol I love the Lakers but let's go Cavs; lol
+Index: 26 Tweet ID: 24, Username: peterlikewha, Polarity: 4, Text: lebron and zydrunas are such an awesome duo
+Index: 27 Tweet ID: 25, Username: emcee, Polarity: 4, Text: @wordwhizkid Lebron is a beast... nobody in the NBA comes even close.
+Index: 28 Tweet ID: 26, Username: CocoSavann, Polarity: 4, Text: downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.
+Index: 29 Tweet ID: 2080, Username: BillVic, Polarity: 4, Text: http://is.gd/ArUJ Good video from Google on using search options.
+Index: 30 Tweet ID: 33, Username: DreambigRadi, Polarity: 4, Text: good news; just had a call from the Visa office; saying everything is fine.....what a relief! I am sick of scams out there! Stealing!
+Index: 31 Tweet ID: 34, Username: andrewwatso, Polarity: 4, Text: http://twurl.nl/epkr4b - awesome come back from @biz (via @fredwilson)
+Index: 32 Tweet ID: 35, Username: fredwilso, Polarity: 4, Text: In montreal for a long weekend of R&amp;R. Much needed.
+Index: 33 Tweet ID: 2083, Username: xmikeflhxc, Polarity: 0, Text: @ambcharlesfield lol. Ah my skin is itchy :( damn lawnmowing.
+Index: 34 Tweet ID: 2084, Username: Timl906, Polarity: 0, Text: itchy back!! dont ya hate it!
+Index: 35 Tweet ID: 2085, Username: PassionMode, Polarity: 4, Text: Stanford Charity Fashion Show a top draw http://cli.gs/NeNuAH
+Index: 36 Tweet ID: 2086, Username: TechUpdate, Polarity: 4, Text: Stanford University?s Facebook Profile is One of the Most Popular Official University Pages - http://tinyurl.com/p5b3fl
+Index: 37 Tweet ID: 2087, Username: robotickilldoz, Polarity: 4, Text: Lyx is cool.
+Index: 38 Tweet ID: 2093, Username: TheDALiSi, Polarity: 4, Text: SOOO DISSAPOiNTED THEY SENT DANNY GOKEY HOME... YOU STiLL ROCK ...DANNY ... MY HOMETOWN HERO !! YEAH MiLROCKEE!!
+Index: 39 Tweet ID: 46, Username: JoeSchuelle, Polarity: 4, Text: Booz Allen Hamilton has a bad ass homegrown social collaboration platform. Way cool!  #ttiv
+Index: 40 Tweet ID: 2094, Username: fashion_retwee, Polarity: 4, Text: RT @PassionModel 'American Idol' fashion: Adam Lambert tones down; Danny Gokey cute ... http://cli.gs/7JWSHV
+Index: 41 Tweet ID: 47, Username: scottabe, Polarity: 4, Text: [#MLUC09] Customer Innovation Award Winner: Booz Allen Hamilton -- http://ping.fm/c2hPP
+Index: 42 Tweet ID: 2095, Username: angelkim1, Polarity: 4, Text: @dannygokey I love you DANNY GOKEY!! :)
+Index: 43 Tweet ID: 2096, Username: download1, Polarity: 2, Text: RT @justindavey: RT @tweetmeme GM OnStar now instantly sends accident location coordinates to 911 | GPS Obsessed http://bit.ly/16szL1
+Index: 44 Tweet ID: 49, Username: JustMe_, Polarity: 4, Text: @SoChi2 I current use the Nikon D90 and love it; but not as much as the Canon 40D/50D. I chose the D90 for the  video feature. My mistake.
+Index: 45 Tweet ID: 2097, Username: nichole1, Polarity: 0, Text: so tired. i didn't sleep well at all last night.
+Index: 46 Tweet ID: 50, Username: hiteshbaga, Polarity: 2, Text: need suggestions for a good IR filter for my canon 40D ... got some? pls DM
+Index: 47 Tweet ID: 2098, Username: xstaylo, Polarity: 0, Text: Boarding plane for San Francisco in 1 hour; 6 hr flight. Blech.
+Index: 48 Tweet ID: 2099, Username: miwah, Polarity: 0, Text: bonjour San Francisco. My back hurts from last night..
+Index: 49 Tweet ID: 2100, Username: bKnap, Polarity: 2, Text: breakers. in San Francisco; CA http://loopt.us/4v88Bw.t
+Index: 50 Tweet ID: 2101, Username: raycej, Polarity: 2, Text: Heading to San Francisco
+Index: 51 Tweet ID: 2102, Username: deepika, Polarity: 4, Text: With my best girl for a few more hours in San francisco. Mmmmmfamily is wonderful!
+Index: 52 Tweet ID: 2103, Username: kaasla, Polarity: 0, Text: F*** up big; or go home - AIG
+Index: 53 Tweet ID: 2104, Username: Pgob, Polarity: 4, Text: Went to see the Star Trek movie last night.  Very satisfying.
+Index: 54 Tweet ID: 2105, Username: qrboy8, Polarity: 4, Text: I can't wait; going to see star trek tonight!!
+Index: 55 Tweet ID: 2106, Username: adamrisse, Polarity: 4, Text: Star Trek was as good as everyone said!!
+Index: 56 Tweet ID: 2107, Username: GoodPhoeni, Polarity: 4, Text: am loving new malcolm gladwell book - outliers
+Index: 57 Tweet ID: 2108, Username: silentcart, Polarity: 4, Text: I highly recommend Malcolm Gladwell's 'The Tipping Point.' My next audiobook will probably be one of his as well.
+Index: 58 Tweet ID: 2109, Username: kerrrrr, Polarity: 0, Text: Malcolm Gladwell is a genius at tricking people into not realizing he's a fucking idiot
+Index: 59 Tweet ID: 2110, Username: bling_crosb, Polarity: 0, Text: @sportsguy33 hey no offense but malcolm gladwell is a pretenious; annoying cunt and he brings you down. cant read his shit
+Index: 60 Tweet ID: 2111, Username: ripplemd, Polarity: 4, Text: RT @clashmore: http://bit.ly/SOYv7  Great article by Malcolm Gladwell.
+Index: 61 Tweet ID: 2112, Username: drewlew3, Polarity: 4, Text: I seriously underestimated Malcolm Gladwell.  I want to meet this dude.
+Index: 62 Tweet ID: 2113, Username: MrsGinobil, Polarity: 0, Text: i hate comcast right now. everything is down cable internet &amp; phone....ughh what am i to do
+Index: 63 Tweet ID: 2114, Username: stormygirl22, Polarity: 0, Text: Comcast sucks.
+Index: 64 Tweet ID: 2115, Username: theZocto, Polarity: 0, Text: The day I never have to deal with Comcast again will rank as one of the best days of my life.
+Index: 65 Tweet ID: 2116, Username: motkep, Polarity: 0, Text: @Dommm did comcast fail again??
+Index: 66 Tweet ID: 2117, Username: YouAnswe, Polarity: 2, Text: How do you use the twitter API?... http://bit.ly/4VBhH
+Index: 67 Tweet ID: 2118, Username: marekds, Polarity: 0, Text: curses the Twitter API limit
+Index: 68 Tweet ID: 2119, Username: mikecan, Polarity: 0, Text: Now I can see why Dave Winer screams about lack of Twitter API; its limitations and access throttles!
+Index: 69 Tweet ID: 2120, Username: trivekto, Polarity: 2, Text: testing Twitter API
+Index: 70 Tweet ID: 2121, Username: rdoc42, Polarity: 0, Text: Arg. Twitter API is making me crazy.
+Index: 71 Tweet ID: 2122, Username: Hot_Tweet, Polarity: 2, Text: Testing Twitter API. Remote Update
+Index: 72 Tweet ID: 2137, Username: jeffswhit, Polarity: 4, Text: I'm really loving the new search site Wolfram/Alpha. Makes Google seem so ... quaint. http://www72.wolframalpha.com/
+Index: 73 Tweet ID: 2138, Username: marrio, Polarity: 0, Text: #wolfram Alpha SUCKS! Even for researchers the information provided is less than you can get from #google or #wikipedia; totally useless!
+Index: 74 Tweet ID: 2139, Username: kewpiezmo, Polarity: 4, Text: Off to the NIKE factory!!!
+Index: 75 Tweet ID: 2140, Username: Chet_Lemo, Polarity: 4, Text: New nike muppet commercials are pretty cute. Why do we live together again?
+Index: 76 Tweet ID: 2141, Username: sneakerfile, Polarity: 2, Text: New blog post: Nike Zoom LeBron Soldier 3 (III) - White / Black - Teal http://bit.ly/rouUS
+Index: 77 Tweet ID: 2142, Username: nikeblo, Polarity: 2, Text: New blog post: Nike Trainer 1 http://bit.ly/394bp
+Index: 78 Tweet ID: 2143, Username: laurenorno, Polarity: 0, Text: @Fraggle312 oh those are awesome! i so wish they weren't owned by nike :(
+Index: 79 Tweet ID: 2158, Username: julieule, Polarity: 4, Text: @tonyhawk http://twitpic.com/5c7uj - AWESOME!!! Seeing the show Friday at the Shoreline Amphitheatre. Never seen NIN before. Can't wait. ...
+Index: 80 Tweet ID: 2159, Username: gux_kun, Polarity: 0, Text: arhh; It's weka bug. = ="" and I spent almost two hours to find that out. crappy me
+Index: 81 Tweet ID: 2160, Username: GrfxGur, Polarity: 4, Text: @mitzs hey bud :) np I do so love my 50D; although I'd love a 5D mkII more
+Index: 82 Tweet ID: 2161, Username: joelgoodma, Polarity: 4, Text: @jonduenas @robynlyn just got us a 50D for the office. :D
+Index: 83 Tweet ID: 2162, Username: trevorcgibso, Polarity: 4, Text: Just picked up my new Canon 50D...it's beautiful!!  Prepare for some seriously awesome photography!
+Index: 84 Tweet ID: 2163, Username: ashpeckha, Polarity: 4, Text: Just got my new toy. Canon 50D. Love love love it!
+Index: 85 Tweet ID: 2164, Username: davidivin, Polarity: 4, Text: Learning about lambda calculus :)
+Index: 86 Tweet ID: 117, Username: Annimallove, Polarity: 2, Text: @surfit: I just checked my google for my business- blip shows up as the second entry! Huh. Is that a good or ba... ? http://blip.fm/~6emhv
+Index: 87 Tweet ID: 2165, Username: SCSanFrancisc, Polarity: 2, Text: #jobs #sittercity Help with taking care of sick child (East Palo Alto; CA) http://tinyurl.com/qwrr2m
+Index: 88 Tweet ID: 118, Username: J_Hol, Polarity: 4, Text: @phyreman9 Google is always a good place to look. Should've mentioned I worked on the Mustang w/ my Dad; @KimbleT.
+Index: 89 Tweet ID: 2166, Username: nfarza, Polarity: 4, Text: I'm moving to East Palo Alto!
+Index: 90 Tweet ID: 119, Username: vamsmac, Polarity: 0, Text: Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.
+Index: 91 Tweet ID: 120, Username: schronc, Polarity: 0, Text: US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders
+Index: 92 Tweet ID: 121, Username: MarissaLee, Polarity: 0, Text: omg so bored &amp; my tattoooos are so itchy!!  help! aha =)
+Index: 93 Tweet ID: 122, Username: robloposk, Polarity: 0, Text: I'm itchy and miserable!
+Index: 94 Tweet ID: 123, Username: EdwinLValenci, Polarity: 0, Text: @sekseemess no. I'm not itchy for now. Maybe later; lol.
+Index: 95 Tweet ID: 2171, Username: tylerli, Polarity: 4, Text: @ atebits I just finished watching your Stanford iPhone Class session. I really appreciate it. You Rock!
+Index: 96 Tweet ID: 124, Username: imusicmas, Polarity: 4, Text: RT @jessverr I love the nerdy Stanford human biology videos - makes me miss school. http://bit.ly/13t7NR
+Index: 97 Tweet ID: 2172, Username: souleaterj, Polarity: 4, Text: @jktweet Hi! Just saw your Stanford talk and really liked your advice. Just saying Hi from Singapore (yes the videos do get around)
+Index: 98 Tweet ID: 125, Username: drewloew, Polarity: 4, Text: @spinuzzi: Has been a bit crazy; with steep learning curve; but LyX is really good for long docs. For anything shorter; it would be insane.
+Index: 99 Tweet ID: 2173, Username: MbaAdmissio, Polarity: 2, Text: #MBA Admissions Tips Stanford GSB Deadlines and Essay Topics 2009-2010 http://tinyurl.com/pet4fd
+Index: 100 Tweet ID: 2174, Username: narai, Polarity: 2, Text: Ethics and nonprofits - http://bit.ly/qsXRp  #stanford #socialentrepreneurship
+Index: 101 Tweet ID: 2175, Username: JuanGi, Polarity: 4, Text: LAKERS tonight let's go!!!!
+Index: 102 Tweet ID: 2176, Username: Alexi_, Polarity: 4, Text: Will the Lakers kick the Nuggets ass tonight?
+Index: 103 Tweet ID: 2177, Username: one_eightee, Polarity: 0, Text: Oooooooh... North Korea is in troubleeeee! http://bit.ly/19epAH
+Index: 104 Tweet ID: 2178, Username: FOLKTALE0, Polarity: 0, Text: Wat the heck is North Korea doing!!??!! They just conducted powerful nuclear tests! Follow the link: http://www.msnbc.msn.com/id/30921379
+Index: 105 Tweet ID: 131, Username: VickyTigge, Polarity: 4, Text: I'm listening to ""P.Y.T"" by Danny Gokey &lt;3 &lt;3 &lt;3 Aww; he's so amazing. I &lt;3 him so much :)
+Index: 106 Tweet ID: 2179, Username: Mvsi, Polarity: 0, Text: Listening to Obama... Friggin North Korea...
+Index: 107 Tweet ID: 132, Username: babblyabbi, Polarity: 4, Text: is going to sleep then on a bike ride:]
+Index: 108 Tweet ID: 2180, Username: CFURNARO, Polarity: 0, Text: I just realized we three monkeys in the white Obama.Biden;Pelosi . Sarah Palin 2012
+Index: 109 Tweet ID: 133, Username: kisjoaqui, Polarity: 0, Text: cant sleep... my tooth is aching.
+Index: 110 Tweet ID: 2181, Username: Rachael9021, Polarity: 0, Text: @foxnews Pelosi should stay in China and never come back.
+Index: 111 Tweet ID: 134, Username: Whacktackula, Polarity: 0, Text: Blah; blah; blah same old same old. No plans today; going back to sleep I guess.
+Index: 112 Tweet ID: 2182, Username: TylerSchmid, Polarity: 0, Text: Nancy Pelosi gave the worst commencement speech I've ever heard. Yes I'm still bitter about this
+Index: 113 Tweet ID: 135, Username: Adrigonz, Polarity: 0, Text: glad i didnt do Bay to Breakers today; it's 1000 freaking degrees in San Francisco wtf
+Index: 114 Tweet ID: 2183, Username: KayJay_, Polarity: 0, Text: ugh. the amount of times these stupid insects have bitten me. Grr..
+Index: 115 Tweet ID: 136, Username: sulu3, Polarity: 2, Text: is in San Francisco at Bay to Breakers.
+Index: 116 Tweet ID: 2184, Username: BecCre, Polarity: 4, Text: Prettiest insects EVER - Pink Katydids: http://bit.ly/2Upw2p
+Index: 117 Tweet ID: 137, Username: schuyle, Polarity: 2, Text: just landed at San Francisco
+Index: 118 Tweet ID: 2185, Username: euthanasia8, Polarity: 0, Text: Just got barraged by a horde of insects hungry for my kitchen light. So scary.
+Index: 119 Tweet ID: 138, Username: MattBragon, Polarity: 2, Text: San Francisco today.  Any suggestions?
+Index: 120 Tweet ID: 139, Username: KennyTRolan, Polarity: 0, Text: ?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg
+Index: 121 Tweet ID: 2187, Username: connlock, Polarity: 4, Text: Just had McDonalds for dinner. :D It was goooood. Big Mac Meal. ;)
+Index: 122 Tweet ID: 140, Username: aMil, Polarity: 0, Text: started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?
+Index: 123 Tweet ID: 2188, Username: MamiYess, Polarity: 4, Text: AHH YES LOL IMA TELL MY HUBBY TO GO GET ME SUM MCDONALDS =]
+Index: 124 Tweet ID: 141, Username: Trazor, Polarity: 0, Text: ShaunWoo hate'n on AiG
+Index: 125 Tweet ID: 142, Username: mimknit, Polarity: 4, Text: @YarnThing you will not regret going to see Star Trek. It was AWESOME!
+Index: 126 Tweet ID: 2190, Username: Yuleineee, Polarity: 4, Text: Stopped to have lunch at McDonalds. Chicken Nuggetssss! :) yummmmmy.
+Index: 127 Tweet ID: 143, Username: GeeRe, Polarity: 2, Text: On my way to see Star Trek @ The Esquire.
+Index: 128 Tweet ID: 2191, Username: Xrachul, Polarity: 4, Text: Could go for a lot of McDonalds. i mean A LOT.
+Index: 129 Tweet ID: 144, Username: checkyesjes, Polarity: 2, Text: Going to see star trek soon with my dad.
+Index: 130 Tweet ID: 145, Username: renan, Polarity: 0, Text: annoying new trend on the internets:  people picking apart michael lewis and malcolm gladwell.  nobody wants to read that.
+Index: 131 Tweet ID: 2193, Username: xKimmeli, Polarity: 4, Text: my exam went good. @HelloLeonie: your prayers worked (:
+Index: 132 Tweet ID: 146, Username: kottkedotor, Polarity: 2, Text: Bill Simmons in conversation with Malcolm Gladwell http://bit.ly/j9o50
+Index: 133 Tweet ID: 2194, Username: laulaulaure, Polarity: 4, Text: Only one exam left; and i am so happy for it :D
+Index: 134 Tweet ID: 147, Username: davidm8, Polarity: 4, Text: Highly recommend: http://tinyurl.com/HowDavidBeatsGoliath by Malcolm Gladwell
+Index: 135 Tweet ID: 2195, Username: ellllle, Polarity: 0, Text: Math review. Im going to fail the exam.
+Index: 136 Tweet ID: 148, Username: livrea, Polarity: 4, Text: Blink by malcolm gladwell amazing book and The tipping point!
+Index: 137 Tweet ID: 2196, Username: LPSsports4, Polarity: 0, Text: Colin Powell rocked yesterday on CBS. Cheney needs to shut the hell up and go home.Powell is a man of Honor and served our country proudly
+Index: 138 Tweet ID: 149, Username: mikeaross, Polarity: 4, Text: Malcolm Gladwell might be my new man crush
+Index: 139 Tweet ID: 2197, Username: joah, Polarity: 0, Text: obviously not siding with Cheney here: http://bit.ly/19j2d
+Index: 140 Tweet ID: 150, Username: wendy9363, Polarity: 0, Text: omg. The commercials alone on ESPN are going to drive me nuts.
+Index: 141 Tweet ID: 151, Username: ClayFrankli, Polarity: 4, Text: @robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.
+Index: 142 Tweet ID: 152, Username: cURLTestin, Polarity: 2, Text: playing with cURL and the Twitter API
+Index: 143 Tweet ID: 153, Username: ringerdro, Polarity: 4, Text: Hello Twitter API ;)
+Index: 144 Tweet ID: 154, Username: danserfat, Polarity: 2, Text: playing with Java and the Twitter API
+Index: 145 Tweet ID: 2202, Username: paulobs, Polarity: 4, Text: Absolutely hilarious!!! from @mashable:  http://bit.ly/bccWt
+Index: 146 Tweet ID: 155, Username: raykolb, Polarity: 0, Text: @morind45 Because the twitter api is slow and most client's aren't good.
+Index: 147 Tweet ID: 2203, Username: christineros, Polarity: 4, Text: @mashable I never did thank you for including me in your Top 100 Twitter Authors! You Rock! (&amp; I New Wave :-D) http://bit.ly/EOrFV
+Index: 148 Tweet ID: 156, Username: CarolineVila, Polarity: 0, Text: yahoo answers can be a butt sometimes
+Index: 149 Tweet ID: 2204, Username: cfblogger, Polarity: 2, Text: Learning jQuery 1.3 Book Review - http://cfbloggers.org/?c=30629
+Index: 150 Tweet ID: 157, Username: rachelbegin, Polarity: 4, Text: is scrapbooking with Nic =D
+Index: 151 Tweet ID: 2205, Username: pdelsignor, Polarity: 4, Text: RT @shrop: Awesome JQuery reference book for Coda! http://www.macpeeps.com/coda/ #webdesign
+Index: 152 Tweet ID: 2206, Username: bskat, Polarity: 4, Text: I've been sending e-mails like crazy today to my contacts...does anyone have a contact at Goodby SIlverstein...I'd love to speak to them
+Index: 153 Tweet ID: 2207, Username: sc0ttma, Polarity: 2, Text: Adobe CS4 commercial by Goodby Silverstein: http://bit.ly/1aikhF
+Index: 154 Tweet ID: 2208, Username: designpla, Polarity: 4, Text: Goodby; Silverstein's new site... http://www.goodbysilverstein.com/ I enjoy it.
+Index: 155 Tweet ID: 172, Username: leedscentli, Polarity: 4, Text: RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR
+Index: 156 Tweet ID: 2220, Username: Drisgil, Polarity: 4, Text: Wow everyone at the Google I/O conference got free G2's with a month of unlimited service
+Index: 157 Tweet ID: 173, Username: sportsgirl50, Polarity: 4, Text: just changed my default pic to a Nike basketball cause bball is awesome!!!!!
+Index: 158 Tweet ID: 2221, Username: DearJellyHiJel, Polarity: 4, Text: @vkerkez dood I got a free google android phone at the I/O conference. The G2!
+Index: 159 Tweet ID: 174, Username: MatrixSystem, Polarity: 2, Text: Nike owns NBA Playoffs ads w/ LeBron; Kobe; Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding
+Index: 160 Tweet ID: 2222, Username: itamar, Polarity: 4, Text: @Orli the G2 is amazing btw; a HUGE improvement over the G1
+Index: 161 Tweet ID: 175, Username: cadburysgir, Polarity: 2, Text: 'Next time; I'll call myself Nike'
+Index: 162 Tweet ID: 2223, Username: dayna, Polarity: 4, Text: HTML 5 Demos! Lots of great stuff to come! Yes; I'm excited. :) http://htmlfive.appspot.com #io2009 #googleio
+Index: 163 Tweet ID: 176, Username: AddictedToFres, Polarity: 2, Text: New blog post: Nike SB Dunk Low Premium 'White Gum' http://tr.im/lOtT
+Index: 164 Tweet ID: 2224, Username: jackdaniels0, Polarity: 4, Text: @googleio http://twitpic.com/62shi - Yay! Happy place! Place place!  I love Google!
+Index: 165 Tweet ID: 177, Username: coreysmbpr, Polarity: 0, Text: RT @SmartChickPDX: Was just told that Nike layoffs started today :-(
+Index: 166 Tweet ID: 2225, Username: alpheus, Polarity: 4, Text: #GoogleIO | O3D - Bringing 3d graphics to the browser. Very nice tbh. Funfun.
+Index: 167 Tweet ID: 178, Username: PRolivi, Polarity: 4, Text: Back when I worked for Nike we had one fav word : JUST DO IT! :)
+Index: 168 Tweet ID: 179, Username: ErrantDream, Polarity: 4, Text: By the way; I'm totally inspired by this freaky Nike commercial: http://snurl.com/icgj9
+Index: 169 Tweet ID: 192, Username: niket, Polarity: 2, Text: giving weka an app engine interface; using the bird strike data for the tests; the logo is a given.
+Index: 170 Tweet ID: 194, Username: bigdigi, Polarity: 2, Text: Brand New Canon EOS 50D 15MP DSLR Camera Canon 17-85mm IS Lens ...: Web Technology Thread; Brand New Canon EOS 5.. http://u.mavrev.com/5a3t
+Index: 171 Tweet ID: 195, Username: justinbettma, Polarity: 4, Text: Class... The 50d is supposed to come today :)
+Index: 172 Tweet ID: 196, Username: read, Polarity: 0, Text: needs someone to explain lambda calculus to him! :(
+Index: 173 Tweet ID: 197, Username: BAK3, Polarity: 0, Text: Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.
+Index: 174 Tweet ID: 198, Username: SLICKSPI, Polarity: 4, Text: SHOUT OUTS TO ALL EAST PALO ALTO FOR BEING IN THE BUILDIN KARIZMAKAZE 50CAL GTA! ALSO THANKS TO PROFITS OF DOOM UNIVERSAL HEMPZ CRACKA......
+Index: 175 Tweet ID: 199, Username: ckwrigh, Polarity: 0, Text: @legalgeekery Yeahhhhhhhhh; I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.
+Index: 176 Tweet ID: 204, Username: souleaterj, Polarity: 4, Text: @accannis @edog1203 Great Stanford course. Thanks for making it available to the public! Really helpful and informative for starting off!
+Index: 177 Tweet ID: 205, Username: susanga, Polarity: 2, Text: NVIDIA Names Stanford's Bill Dally Chief Scientist; VP Of Research http://bit.ly/Fvvg9
+Index: 178 Tweet ID: 206, Username: jimmy_chan200, Polarity: 2, Text: New blog post: Harvard Versus Stanford - Who Wins? http://bit.ly/MCoCo
+Index: 179 Tweet ID: 207, Username: a_fi, Polarity: 4, Text: @ work til 6pm... lets go lakers!!!
+Index: 180 Tweet ID: 208, Username: luvslikep, Polarity: 0, Text: Damn you North Korea. http://bit.ly/KtMeQ
+Index: 181 Tweet ID: 209, Username: utsagrad12, Polarity: 0, Text: Can we just go ahead and blow North Korea off the map already?
+Index: 182 Tweet ID: 210, Username: stabotag, Polarity: 0, Text: North Korea; please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl
+Index: 183 Tweet ID: 211, Username: zed0, Polarity: 0, Text: Why the hell is Pelosi in freakin China? and on whose dime?
+Index: 184 Tweet ID: 212, Username: funky_old_ma, Polarity: 0, Text: Are YOU burning more cash $$$ than Chrysler and GM? Stop the financial tsunami. Where ""bailout"" means taking a handout!
+Index: 185 Tweet ID: 213, Username: malcoze, Polarity: 0, Text: insects have infected my spinach plant :(
+Index: 186 Tweet ID: 214, Username: AntoineTheRea, Polarity: 0, Text: wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day.mosquitos are the assholes of insects
+Index: 187 Tweet ID: 215, Username: jonwolper, Polarity: 0, Text: just got back from church; and I totally hate insects.
+Index: 188 Tweet ID: 216, Username: jachshor, Polarity: 0, Text: Just got mcdonalds goddam those eggs make me sick. O yeah Laker up date go lakers. Not much of an update? Well it's true so suck it
+Index: 189 Tweet ID: 217, Username: MamiYess, Polarity: 4, Text: omgg i ohhdee want mcdonalds damn i wonder if its open lol =]
+Index: 190 Tweet ID: 218, Username: jvici0u, Polarity: 0, Text: History exam studying ugh
+Index: 191 Tweet ID: 219, Username: enriqueniet, Polarity: 0, Text: I hate revision; it's so boring! I am totally unprepared for my exam tomorrow :( Things are not looking good...
+Index: 192 Tweet ID: 220, Username: Drummermatt_18, Polarity: 0, Text: Higher physics exam tommorow; not lookin forward to it much :(
+Index: 193 Tweet ID: 222, Username: filmcriticbet, Polarity: 0, Text: It's a bank holiday; yet I'm only out of work now. Exam season sucks:(
+Index: 194 Tweet ID: 223, Username: lvloca, Polarity: 0, Text: Cheney and Bush are the real culprits - http://fwix.com/article/939496
+Index: 195 Tweet ID: 224, Username: QCWofN, Polarity: 0, Text: Life?s a bitch? and so is Dick Cheney. #p2 #bipart #tlot #tcot #hhrs #GOP #DNC http://is.gd/DjyQ
+Index: 196 Tweet ID: 225, Username: jepac, Polarity: 0, Text: Dick Cheney's dishonest speech about torture; terror; and Obama. -Fred Kaplan Slate. http://is.gd/DiHg
+Index: 197 Tweet ID: 226, Username: ImportantQuote, Polarity: 0, Text: ""The Republican party is a bunch of anti-abortion zealots who couldn't draw flies to a dump."" -- Neal Boortz (just now; on the radio)
+Index: 198 Tweet ID: 227, Username: fwham, Polarity: 0, Text: is Twitter's connections API broken? Some tweets didn't make it to Twitter...
+Index: 199 Tweet ID: 228, Username: jos89, Polarity: 0, Text: i srsly hate the stupid twitter API timeout thing; soooo annoying!!!!! :(
+Index: 200 Tweet ID: 233, Username: jystewar, Polarity: 4, Text: @psychemedia I really liked @kswedberg's ""Learning jQuery"" book. http://bit.ly/pg0lT is worth a look too
+Index: 201 Tweet ID: 234, Username: cfblogger, Polarity: 2, Text: jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631
+Index: 202 Tweet ID: 235, Username: CaerusM, Polarity: 4, Text: Very Interesting Ad from Adobe by Goodby; Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT
+Index: 203 Tweet ID: 236, Username: HallandPartner, Polarity: 4, Text: Goodby Silverstein agency new site! http://www.goodbysilverstein.com/ Great!
+Index: 204 Tweet ID: 237, Username: suedecrus, Polarity: 4, Text: RT @designplay Goodby; Silverstein's new site: http://www.goodbysilverstein.com/ I enjoy it. *nice find!*
+Index: 205 Tweet ID: 238, Username: _imagework, Polarity: 4, Text: The ever amazing Psyop and Goodby Silverstein &amp; Partners for HP! http://bit.ly/g2rU8 Have to go play with After Effects now!
+Index: 206 Tweet ID: 239, Username: dustinrowle, Polarity: 4, Text: top ten most watched on Viral-Video Chart.  Love the nike #mostvaluablepuppets campaign from Wieden &amp; Kennedy http://bit.ly/nR1n9
+Index: 207 Tweet ID: 2295, Username: joshgammo, Polarity: 4, Text: Awesome viral marketing for ""Funny People"" http://www.nbc.com/yo-teach/
+Index: 208 Tweet ID: 2296, Username: KatyWheatley, Polarity: 2, Text: Watching a programme about the life of Hitler; its only enhancing my geekiness of history.
+Index: 209 Tweet ID: 251, Username: xzel, Polarity: 4, Text: zomg!!! I have a G2!!!!!!!
+Index: 210 Tweet ID: 252, Username: mobiledream, Polarity: 4, Text: Ok so lots of buzz from IO2009 but how lucky are they - a Free G2!! http://is.gd/Hyzl
+Index: 211 Tweet ID: 253, Username: crashfaste, Polarity: 4, Text: just got a free G2 android at google i/o!!!
+Index: 212 Tweet ID: 254, Username: dragona, Polarity: 4, Text: Guess I'll be retiring my G1 and start using my developer G2 woot #googleio
+Index: 213 Tweet ID: 255, Username: mastoo, Polarity: 2, Text: At GWT fireside chat @googleio
+Index: 214 Tweet ID: 256, Username: maex24, Polarity: 4, Text: I am happy for Philip being at GoogleIO today
+Index: 215 Tweet ID: 2355, Username: TiffanyBakke, Polarity: 0, Text: saw night at the museum out of sheer desperation. who is funding these movies?
+Index: 216 Tweet ID: 2356, Username: kezzum, Polarity: 4, Text: Night At The Museum 2? Pretty furkin good.
+Index: 217 Tweet ID: 2357, Username: bodhibugg, Polarity: 4, Text: Watching Night at the Museum - giggling.
+Index: 218 Tweet ID: 2358, Username: HistoryLuV3, Polarity: 2, Text: @pambeeslyjenna Jenna; I went to see Night At The Museum 2 today and I was so surprised to see three cast members from The Office...
+Index: 219 Tweet ID: 2359, Username: ErcDrs, Polarity: 2, Text: About to watch Night at the Museum with Ryan and Stacy
+Index: 220 Tweet ID: 2360, Username: aykataok, Polarity: 2, Text: Getting ready to go watch Night at the Museum 2.  Dum dum; you give me gum gum!
+Index: 221 Tweet ID: 2361, Username: Bcapot, Polarity: 0, Text: Back from seeing 'Star Trek' and 'Night at the Museum.' 'Star Trek' was amazing; but 'Night at the Museum' was; eh.
+Index: 222 Tweet ID: 2362, Username: crikket_churp, Polarity: 4, Text: just watched night at the museum 2! so stinkin cute!
+Index: 223 Tweet ID: 2363, Username: tish_tis, Polarity: 4, Text: So; Night at the Museum 2 was AWESOME! Much better than part 1. Next weekend we'll see Up.
+Index: 224 Tweet ID: 2364, Username: Lilimic, Polarity: 2, Text: I think I may have a new favorite restaurant. On our way to see ""Night at the Museum 2"".
+Index: 225 Tweet ID: 317, Username: specs2, Polarity: 4, Text: Lakers played great!  Cannot wait for Thursday night Lakers vs. ???
+Index: 226 Tweet ID: 2365, Username: stealing_secon, Polarity: 2, Text: UP! was sold out; so i'm seeing Night At The Museum 2. I'm __ years old.
+Index: 227 Tweet ID: 2366, Username: Pas_de_Cheva, Polarity: 4, Text: saw the new Night at the Museum and i loved it. Next is to go see UP in 3D
+Index: 228 Tweet ID: 2367, Username: lloydnelso, Polarity: 0, Text: It is a shame about GM. What if they are forced to make only cars the White House THINKS will sell? What do you think?
+Index: 229 Tweet ID: 2368, Username: overthro, Polarity: 0, Text: As u may have noticed; not too happy about the GM situation; nor AIG; Lehman; et al
+Index: 230 Tweet ID: 2369, Username: economywir, Polarity: 2, Text: Obama: Nationalization of GM to be short-term   (AP) http://tinyurl.com/md347r
+Index: 231 Tweet ID: 2370, Username: tradecru, Polarity: 0, Text: @Pittstock $GM good riddance.  sad though.
+Index: 232 Tweet ID: 2371, Username: ZendoDe, Polarity: 0, Text: I Will NEVER Buy a Government Motors Vehicle: Until just recently; I drove GM cars. Since 1988; when I bought a .. http://tinyurl.com/lulsw8
+Index: 233 Tweet ID: 2372, Username: rbmsho, Polarity: 0, Text: Having the old Coca-Cola guy on the GM board is stupid has heck! #tcot #ala
+Index: 234 Tweet ID: 2373, Username: Ash_Craigslis, Polarity: 0, Text: #RantsAndRaves The worst thing about GM (concord / pleasant hill / martinez): is the fucking UAW. ..   http://buzzup.com/4ueb
+Index: 235 Tweet ID: 2374, Username: BarackProblem, Polarity: 0, Text: Give a man a fish; u feed him for the day. Teach him to fish; u feed him for life. Buy him GM; and u F**K him over for good.
+Index: 236 Tweet ID: 2375, Username: ericdan, Polarity: 0, Text: The more I hear about this GM thing the more angry I get. Billions wasted; more bullshit. All for something like 40k employees and all the..
+Index: 237 Tweet ID: 328, Username: BrandKarm, Polarity: 2, Text: Hi there; does anyone have a great source for advice on viral marketing?... http://link.gs/YtZ8
+Index: 238 Tweet ID: 2376, Username: tradecru, Polarity: 0, Text: @QuantTrader i own a GM car and it is junk as far as quality compared to a honda
+Index: 239 Tweet ID: 329, Username: mattca, Polarity: 4, Text: Judd Apatow creates fake sitcom on NBC.com to market his new movie... viral marketing at its best. http://is.gd/K0yK
+Index: 240 Tweet ID: 2377, Username: ktsophi, Polarity: 0, Text: sad day...bankrupt GM
+Index: 241 Tweet ID: 330, Username: grahamgrimsha, Polarity: 2, Text: Here's A case study on how to use viral marketing to add over 10;000 people to your list http://snipr.com/i50oz
+Index: 242 Tweet ID: 2378, Username: nicolemg41, Polarity: 0, Text: is upset about the whole GM thing. life as i know it is so screwed up
+Index: 243 Tweet ID: 331, Username: nicoleism, Polarity: 0, Text: VIRAL MARKETING FAIL. This Acia Pills brand oughta get shut down for hacking into people's messenger's.  i get 5-6 msgs in a day! Arrrgh!
+Index: 244 Tweet ID: 2379, Username: ProofofVeno, Polarity: 0, Text: whoever is running time warner needs to be repeatedly raped by a rhino so they understand the consequences of putting out shitty cable svcs
+Index: 245 Tweet ID: 2380, Username: flywir, Polarity: 2, Text: Time Warner CEO hints at online fees for magazines      (AP) - Read from Mountain View;United States. Views 16209 http://bit.ly/UdFCH
+Index: 246 Tweet ID: 2381, Username: batchoutlos, Polarity: 0, Text: #WFTB Joining a bit late. My connection was down (boo time warner)
+Index: 247 Tweet ID: 2382, Username: floatingatol, Polarity: 0, Text: Cox or Time Warner?  Cox is cheaper and gets a B on dslreports.  TW is more expensive and gets a C.
+Index: 248 Tweet ID: 2383, Username: kippy, Polarity: 0, Text: i am furious with time warner and their phone promotions!
+Index: 249 Tweet ID: 2384, Username: iamton, Polarity: 0, Text: Just got home from chick-fil-a with the boys. Damn my internets down =( stupid time warner
+Index: 250 Tweet ID: 2385, Username: dcwhi, Polarity: 0, Text: could time-warner cable suck more?  NO.
+Index: 251 Tweet ID: 2386, Username: JustGL, Polarity: 0, Text: Pissed at Time Warner for causin me to have slow internet problems
+Index: 252 Tweet ID: 2387, Username: chaneykyot, Polarity: 0, Text: @sportsguy33 Ummm; having some Time Warner problems?
+Index: 253 Tweet ID: 2388, Username: ldmulle, Polarity: 0, Text: You guys see this?  Why does Time Warner have to suck so much ass?  Really wish I could get U-Verse at my apartment. http://bit.ly/s594j
+Index: 254 Tweet ID: 2389, Username: JohnTurlingto, Polarity: 0, Text: RT @sportsguy33 The upside to Time Warner: unhelpful phone operators   superslow on-site service. Crap; that's not an upside.
+Index: 255 Tweet ID: 2390, Username: johnsclear, Polarity: 0, Text: RT @sportsguy33: New Time Warner slogan: ""Time Warner; where we make you long for the days before cable.""
+Index: 256 Tweet ID: 2391, Username: ecorman, Polarity: 0, Text: confirmed: it's Time Warner's fault; not Facebook's; that fb is taking about 3 minutes to load. so tempted to switch to verizon =/
+Index: 257 Tweet ID: 2392, Username: matson, Polarity: 0, Text: @sportsguy33 Time Warner = epic fail
+Index: 258 Tweet ID: 2393, Username: YildirimNew, Polarity: 2, Text: Lawson to head Newedge Hong Kong http://bit.ly/xLQSD #business #china
+Index: 259 Tweet ID: 2394, Username: zedoma, Polarity: 2, Text: Weird Piano Guitar House in China! http://u2s.me/72i8
+Index: 260 Tweet ID: 2395, Username: theprovinc, Polarity: 2, Text: Send us your GM/Chevy photos http://tinyurl.com/luzkpq
+Index: 261 Tweet ID: 2396, Username: PeteHal, Polarity: 0, Text: I know. How sad is that?  RT @caseymercier: 1st day of hurricane season. That's less scarey than govt taking over GM.
+Index: 262 Tweet ID: 2397, Username: ram_zon, Polarity: 0, Text: GM files Bankruptcy; not a good sign...
+Index: 263 Tweet ID: 2398, Username: irishyank, Polarity: 4, Text: yankees won mets lost. its a good day.
+Index: 264 Tweet ID: 2399, Username: Erinthebigsi, Polarity: 4, Text: My dentist appt today was actually quite enjoyable.
+Index: 265 Tweet ID: 2400, Username: cassieeeelov, Polarity: 0, Text: I hate the effing dentist.
+Index: 266 Tweet ID: 2401, Username: johnnyt18, Polarity: 2, Text: @stevemoakler i had a dentist appt this morning and had the same conversation!
+Index: 267 Tweet ID: 2402, Username: b_bass, Polarity: 0, Text: @kirstiealley I hate going to the dentist.. !!!
+Index: 268 Tweet ID: 2403, Username: cmg1, Polarity: 0, Text: i hate the dentist....who invented them anyways?
+Index: 269 Tweet ID: 2404, Username: arianafly, Polarity: 0, Text: this dentist's office is cold :/
+Index: 270 Tweet ID: 2405, Username: jettelli, Polarity: 2, Text: Check this video out -- David After Dentist http://bit.ly/47aW2
+Index: 271 Tweet ID: 2406, Username: AdiOpERsOco, Polarity: 2, Text: First dentist appointment [in years] on Wednesday possibly.
+Index: 272 Tweet ID: 2407, Username: HallofChampion, Polarity: 2, Text: Tom Shanahan's latest column on SDSU and its NCAA Baseball Regional appearance: http://ow.ly/axhu
+Index: 273 Tweet ID: 2408, Username: SimpleManJes, Polarity: 2, Text: BaseballAmerica.com: Blog: Baseball America Prospects Blog ? Blog ... http://bit.ly/EtT8a
+Index: 274 Tweet ID: 2409, Username: Oregon_Liv, Polarity: 2, Text: Portland city politics may undo baseball park http://tinyurl.com/lpjquj
+Index: 275 Tweet ID: 2410, Username: AirDy, Polarity: 2, Text: RT @WaterSISWEB: CA Merced's water bottled by Safeway; resold at a profit: Wells are drying up across the county http://tinyurl.com/mb573s
+Index: 276 Tweet ID: 2411, Username: csquared, Polarity: 2, Text: dropped her broccoli walking home from safeway! ;( so depressed
+Index: 277 Tweet ID: 2412, Username: XPhile190, Polarity: 2, Text: @ronjon we don't have Safeway.
+Index: 278 Tweet ID: 2413, Username: LaurenAmo, Polarity: 4, Text: Just applied at Safeway!(: Yeeeee!
+Index: 279 Tweet ID: 2414, Username: TravisJensenS, Polarity: 0, Text: @ Safeway. Place is a nightmare right now. Bumming.
+Index: 280 Tweet ID: 2415, Username: Lovely_Laure, Polarity: 2, Text: at safeway with dad
+Index: 281 Tweet ID: 2416, Username: fugface8, Polarity: 0, Text: HATE safeway select green tea icecream! bought two cartons; what a waste of money.  &gt;_&lt;
+Index: 282 Tweet ID: 2417, Username: _JessicaJO, Polarity: 2, Text: Safeway with Marvin; Janelle; and Auntie Lhu
+Index: 283 Tweet ID: 2418, Username: mobileadgir, Polarity: 2, Text: Safeway offering mobile coupons http://bit.ly/ONH7w
+Index: 284 Tweet ID: 2419, Username: m_marches, Polarity: 2, Text: Phillies Driving in the Cadillac with the Top Down in Cali; Win 5-3 - http://tinyurl.com/nzcjqa
+Index: 285 Tweet ID: 2421, Username: TheDebtres, Polarity: 2, Text: Saved money by opting for grocery store trip and stocking food in hotel room fridge vs. eating out every night while out of town.
+Index: 286 Tweet ID: 2422, Username: face_of_bo, Polarity: 2, Text: Lounging around; eating Taco Bell and watching NCIS before work tonight. Need help staying awake.
+Index: 287 Tweet ID: 2426, Username: LaraAvn, Polarity: 2, Text: eating breakfast and then school
+Index: 288 Tweet ID: 2427, Username: elpasir, Polarity: 2, Text: still hungry after eating....
+Index: 289 Tweet ID: 2428, Username: Fitness_10, Polarity: 2, Text: 10 tips for healthy eating ? ResultsBy Fitness Blog :: Fitness ... http://bit.ly/62gFn
+Index: 290 Tweet ID: 2429, Username: ohmurde, Polarity: 2, Text: with the boyfriend; eating a quesadilla
+Index: 291 Tweet ID: 2430, Username: whoaobliviou, Polarity: 2, Text: Eating dinner. Meat; chips; and risotto.
+Index: 292 Tweet ID: 388, Username: Cristinella, Polarity: 4, Text: watching Night at The Museum . Lmao
+Index: 293 Tweet ID: 389, Username: MzJil, Polarity: 4, Text: i loved night at the museum!!!
+Index: 294 Tweet ID: 390, Username: Lynn_Sk, Polarity: 2, Text: going to see the new night at the museum  movie with my family oh boy a three year old in the movies fuin
+Index: 295 Tweet ID: 391, Username: bobster5, Polarity: 4, Text: just got back from the movies.  went to see the new night at the museum with rachel.  it was good
+Index: 296 Tweet ID: 392, Username: jordanforema, Polarity: 2, Text: Just saw the new Night at the Museum movie...it was...okay...lol 7\10
+Index: 297 Tweet ID: 393, Username: britre, Polarity: 2, Text: Going to see night at the museum 2 with tall boy
+Index: 298 Tweet ID: 394, Username: jell, Polarity: 4, Text: @shannyoday I will take you on a date to see night at the museum 2 whenever you want...it looks soooooo good
+Index: 299 Tweet ID: 395, Username: drohert, Polarity: 4, Text: no watching The Night At The Museum. Getting Really Good
+Index: 300 Tweet ID: 396, Username: sarahbrook, Polarity: 4, Text: Night at the Museum; Wolverine and junk food - perfect monday!
+Index: 301 Tweet ID: 397, Username: jeremyempir, Polarity: 4, Text: saw night at the museum 2 last night.. pretty crazy movie.. but the cast was awesome so it was well worth it. Robin Williams forever!
+Index: 302 Tweet ID: 398, Username: MirandaClue, Polarity: 2, Text: I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.
+Index: 303 Tweet ID: 399, Username: RGuad0, Polarity: 2, Text: Taking Katie to see Night at the Museum.  (she picked it)
+Index: 304 Tweet ID: 400, Username: xshalls, Polarity: 0, Text: Night at the Museum tonite instead of UP. :( oh well. that 4 yr old better enjoy it. LOL
+Index: 305 Tweet ID: 401, Username: EconomyUpdate, Polarity: 2, Text: GM says expects announcment on sale of Hummer soon - Reuters: WDSUGM says expects announcment on sale of Hummer .. http://bit.ly/4E1Fv
+Index: 306 Tweet ID: 402, Username: mshbrow, Polarity: 0, Text: It's unfortunate that after the Stimulus plan was put in place twice to help GM on the back of the American people has led to the inevitable
+Index: 307 Tweet ID: 403, Username: misschris6, Polarity: 0, Text: Tell me again why we are giving more $$ to GM?? We should use that $ for all the programs that support the unemployed.
+Index: 308 Tweet ID: 404, Username: artbynem, Polarity: 0, Text: @jdreiss oh yes but if GM dies it will only be worth more boo hahaha
+Index: 309 Tweet ID: 405, Username: windhamgir, Polarity: 0, Text: Time Warner cable is down again 3rd time since Memorial Day bummer!
+Index: 310 Tweet ID: 406, Username: mmmP, Polarity: 0, Text: I would rather pay reasonable yearly taxes for ""free"" fast internet; than get gouged by Time Warner for a slow connection.
+Index: 311 Tweet ID: 407, Username: NDEddieMa, Polarity: 0, Text: NOOOOOOO my DVR just died and I was only half way through the EA presser. Hate you Time Warner
+Index: 312 Tweet ID: 408, Username: yourboysdo, Polarity: 0, Text: F*ck Time Warner Cable!!! You f*cking suck balls!!! I have a $700 HD tv &amp; my damn HD channels hardly ever come in. Bullshit!!
+Index: 313 Tweet ID: 409, Username: Shazzainl, Polarity: 0, Text: time warner has the worse customer service ever. I will never use them again
+Index: 314 Tweet ID: 410, Username: dstal, Polarity: 0, Text: Time warner is the devil. Worst possible time for the Internet to go out.
+Index: 315 Tweet ID: 411, Username: ernestalfons, Polarity: 0, Text: Fuck no internet damn time warner!
+Index: 316 Tweet ID: 412, Username: kaaatie, Polarity: 0, Text: time warner really picks the worst time to not work. all i want to do is get to mtv.com so i can watch the hills. wtfffff.
+Index: 317 Tweet ID: 413, Username: JasonNegro, Polarity: 0, Text: I hate Time Warner! Soooo wish I had Vios. Cant watch the fricken Mets game w/o buffering. I feel like im watching free internet porn.
+Index: 318 Tweet ID: 414, Username: elphabablu, Polarity: 0, Text: Ahh...got rid of stupid time warner today &amp; now taking a nap while the roomies cook for me. Pretty good end for a monday :)
+Index: 319 Tweet ID: 415, Username: gabe_r, Polarity: 0, Text: Time Warner's HD line up is crap.
+Index: 320 Tweet ID: 416, Username: JoeyCircle, Polarity: 0, Text: is being fucked by time warner cable. didnt know modems could explode. and Susan Boyle sucks too!
+Index: 321 Tweet ID: 417, Username: ScooPos, Polarity: 2, Text: Time Warner Cable Pulls the Plug on 'The Girlfriend Experience' - (www.tinyurl.com/m595fk)
+Index: 322 Tweet ID: 418, Username: adamjleac, Polarity: 0, Text: Time Warner Cable slogan: Where calling it a day at 2pm Happens.
+Index: 323 Tweet ID: 419, Username: HYPHYROCKSTA, Polarity: 2, Text: Rocawear Heads to China; Building 300 Stores  - http://tinyurl.com/nofet3
+Index: 324 Tweet ID: 420, Username: BreakingBizNew, Polarity: 2, Text: Climate focus turns to Beijing: The United Nations; the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n
+Index: 325 Tweet ID: 421, Username: myfoxd, Polarity: 2, Text: myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba
+Index: 326 Tweet ID: 422, Username: drlombard, Polarity: 2, Text: Three China aerospace giants develop Tianjin Binhai  New Area;  22.9 B yuan invested   http://bit.ly/mMiDv
+Index: 327 Tweet ID: 423, Username: sinostrea, Polarity: 2, Text: http://xi.gs/04FO GM CEO: China will continue to be key partner
+Index: 328 Tweet ID: 424, Username: hammeraut, Polarity: 2, Text: RT @LATimesautos is now the time to buy a GM car? http://bit.ly/nRzlu
+Index: 329 Tweet ID: 425, Username: scorall, Polarity: 0, Text: Recovering from surgery..wishing @julesrenner was here :(
+Index: 330 Tweet ID: 426, Username: sardonnic, Polarity: 4, Text: My wrist still hurts. I have to get it looked at. I HATE the dr/dentist/scary places. :( Time to watch Eagle eye. If you want to join; txt!
+Index: 331 Tweet ID: 427, Username: BChasno, Polarity: 2, Text: Dentist tomorrow. Have to brush well in the morning. Like I make my hair all nice before I get it cut. Why?
+Index: 332 Tweet ID: 428, Username: LILJIZZE, Polarity: 0, Text: THE DENTIST LIED! "" U WON'T FEEL ANY DISCOMORT! PROB WON'T EVEN NEED PAIN PILLS"" MAN U TWIPPIN THIS SHIT HURT!! HOW MANY PILLS CAN I TAKE!!
+Index: 333 Tweet ID: 429, Username: giz200, Polarity: 0, Text: @kirstiealley my dentist is great but she's expensive...=(
+Index: 334 Tweet ID: 430, Username: cmonaussiecmo, Polarity: 2, Text: @kirstiealley Pet Dentist http://www.funnyville.com/fv/pictures/dogdentures.shtml
+Index: 335 Tweet ID: 431, Username: sorayaboub, Polarity: 4, Text: is studing math ;) tomorrow exam and dentist :)
+Index: 336 Tweet ID: 432, Username: jeffreymodes, Polarity: 0, Text: my dentist was wrong... WRONG
+Index: 337 Tweet ID: 433, Username: yowne, Polarity: 0, Text: Going to the dentist later.:|
+Index: 338 Tweet ID: 434, Username: CWilliams_Rlt, Polarity: 0, Text: Son has me looking at cars online.  I hate car shopping.  Would rather go to the dentist!  Anyone with a good car at a good price to sell?
+Index: 339 Tweet ID: 435, Username: SimpleManJes, Polarity: 2, Text: NCAA Baseball Super Regional - Rams Club http://bit.ly/Ro7nx
+Index: 340 Tweet ID: 436, Username: H3LLGWA, Polarity: 2, Text: just started playing Major League Baseball 2K9. http://raptr.com/H3LLGWAR
+Index: 341 Tweet ID: 437, Username: LouisvilleGrad, Polarity: 2, Text: Cardinals baseball advance to Super Regionals. Face CS-Fullerton Friday.
+Index: 342 Tweet ID: 438, Username: SwainFamil, Polarity: 2, Text: Sony coupon code.. Expires soon.. http://www.coupondork.com/r/1796
+Index: 343 Tweet ID: 439, Username: neeeeli, Polarity: 2, Text: waiting in line at safeway.
+Index: 344 Tweet ID: 440, Username: ryanliper, Polarity: 0, Text: luke and i got stopped walking out of safeway and asked to empty our pockets and lift our shirts. how jacked up is that?
+Index: 345 Tweet ID: 441, Username: eva, Polarity: 2, Text: Did not realize there is a gym above Safeway!
+Index: 346 Tweet ID: 442, Username: ronjo, Polarity: 2, Text: @XPhile1908 I have three words for you: ""Safeway dot com""
+Index: 347 Tweet ID: 443, Username: missleig, Polarity: 4, Text: Safeway is very rock n roll tonight
+Index: 348 Tweet ID: 444, Username: SharkKM, Polarity: 2, Text: Bout to hit safeway I gotta eat
+Index: 349 Tweet ID: 445, Username: bosZmo, Polarity: 2, Text: Jake's going to safeway!
+Index: 350 Tweet ID: 446, Username: penlynwilso, Polarity: 2, Text: Found a safeway. Picking up a few staples.
+Index: 351 Tweet ID: 447, Username: mobileadgir, Polarity: 2, Text: Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w
+Index: 352 Tweet ID: 448, Username: phantomzange, Polarity: 0, Text: The safeway bathroom still smells like ass!
+Index: 353 Tweet ID: 449, Username: Breez, Polarity: 0, Text: At safeway on elkhorn; they move like they're dead!
+Index: 354 Tweet ID: 451, Username: nonstopdiet, Polarity: 2, Text: Your Normal Weight (and How to Get There) ? Normal Eating Blog http://bit.ly/ZeT8O
+Index: 355 Tweet ID: 452, Username: janelleshank, Polarity: 2, Text: Is Eating and Watching Movies....
+Index: 356 Tweet ID: 2502, Username: stefanjo, Polarity: 2, Text: got a new pair of nike shoes. pics up later
+Index: 357 Tweet ID: 2503, Username: nsbor, Polarity: 2, Text: Nike SB Blazer High ""ACG"" Custom - Brad Douglas - http://timesurl.at/45a448
+Index: 358 Tweet ID: 456, Username: hanah, Polarity: 2, Text: eating sashimi
+Index: 359 Tweet ID: 2504, Username: marieforle, Polarity: 4, Text: Nike rocks. I'm super grateful for what I've done with them :) &amp; the European Division of NIKE is BEYOND! @whitSTYLES @muchasmuertes
+Index: 360 Tweet ID: 457, Username: Fie, Polarity: 2, Text: is eating  home made yema
+Index: 361 Tweet ID: 2505, Username: imflash, Polarity: 2, Text: Nike Air Yeezy Khaki/Pink Colorway Release - http://shar.es/bjfN
+Index: 362 Tweet ID: 458, Username: aaindefenz, Polarity: 2, Text: eating cake
+Index: 363 Tweet ID: 2506, Username: TheGlossMagazi, Polarity: 4, Text: @evelynbyrne have you tried Nike  ? V. addictive.
+Index: 364 Tweet ID: 2507, Username: MiniGree, Polarity: 2, Text: @erickoston That looks an awful lot like one of Nike's private jets....I'm just sayin....
+Index: 365 Tweet ID: 2508, Username: TracySute, Polarity: 4, Text: The Nike Training Club (beta) iPhone app looks very interesting.
+Index: 366 Tweet ID: 2529, Username: TobyJuanKenob, Polarity: 0, Text: argghhhh why won't  my jquery appear in safari bad safari !!!
+Index: 367 Tweet ID: 2530, Username: inBlog, Polarity: 2, Text: DevSnippets : jQuery Tools - Javascript UI Components for the Web... http://inblogs.org/go/hfuqt
+Index: 368 Tweet ID: 2531, Username: vmkob, Polarity: 2, Text: all about Ajax;jquery ;css ;JavaScript and more... (many examples) http://ajaxian.com/
+Index: 369 Tweet ID: 2532, Username: ghurso, Polarity: 4, Text: I'm ready to drop the pretenses; I am forever in love with jQuery; and I want to marry it. Sorry ladies; this nerd is jquery.spokenFor.js
+Index: 370 Tweet ID: 2533, Username: 5x1ll, Polarity: 2, Text: This is cold.. I was looking at google's chart//visualization API and found this jQuery ""wrapper"" for the API...  http://tinyurl.com/mq52bq
+Index: 371 Tweet ID: 2534, Username: bryal, Polarity: 2, Text: I spent most of my day reading a jQuery book. Now to start drinking some delirium tremens.
+Index: 372 Tweet ID: 2535, Username: vmkob, Polarity: 2, Text: jquery Selectors http://codylindley.com/jqueryselectors/
+Index: 373 Tweet ID: 2536, Username: maheshch, Polarity: 2, Text: How to implement a news ticker with jQuery and ten lines of code http://bit.ly/CZnFJ
+Index: 374 Tweet ID: 2537, Username: MyBenchmarkMt, Polarity: 2, Text: What's Buffet Doing? Warren Buffett Kicks Butt In Battle of the Boots: Posted By:Alex Crippe.. http://bit.ly/AUIzO
+Index: 375 Tweet ID: 2538, Username: PragCapitalis, Polarity: 4, Text: SUPER INVESTORS: A great weekend read here from Warren Buffet. Oldie; but a goodie. http://tinyurl.com/oqxgga
+Index: 376 Tweet ID: 2539, Username: SmartMouthBroa, Polarity: 2, Text: I'm truly braindead.  I couldn't come up with Warren Buffet's name to save my soul
+Index: 377 Tweet ID: 2540, Username: goncalo, Polarity: 4, Text: reading Michael Palin book; The Python Years...great book. I also recommend Warren Buffet &amp; Nelson Mandela's bio
+Index: 378 Tweet ID: 2541, Username: BobtheRobo, Polarity: 4, Text: I mean; I'm down with Notre Dame if I have to.  It's a good school; I'd be closer to Dan; I'd enjoy it.
+Index: 379 Tweet ID: 2543, Username: Hittma, Polarity: 0, Text: I can't watch TV without a Tivo.  And after all these years; the Time/Warner DVR  STILL sucks. http://www.davehitt.com/march03/twdvr.html
+Index: 380 Tweet ID: 2544, Username: aiba, Polarity: 4, Text: I'd say some sports writers are idiots for saying Roger Federer is one of the best ever in Tennis.  Roger Federer is THE best ever in Tennis
+Index: 381 Tweet ID: 2545, Username: nyctime, Polarity: 0, Text: I still love my Kindle2 but reading The New York Times on it does not feel natural. I miss the Bloomingdale ads.
+Index: 382 Tweet ID: 2546, Username: k8tb5, Polarity: 4, Text: I love my Kindle2. No more stacks of books to trip over on the way to the loo.
+Index: 383 Tweet ID: 2558, Username: taylorcarriga, Polarity: 0, Text: Although today's keynote rocked; for every great announcement; AT&amp;T shit on us just a little bit more.
+Index: 384 Tweet ID: 2559, Username: susanjan, Polarity: 0, Text: @sheridanmarfil - its not so much my obsession with cell phones; but the iphone!  i'm a slave to at&amp;t forever because of it. :)
+Index: 385 Tweet ID: 2560, Username: stick0, Polarity: 2, Text: @freitasm oh I see. I thought AT&amp;T were 900MHz WCDMA?
+Index: 386 Tweet ID: 2561, Username: CaptainCraigo, Polarity: 2, Text: @Plip Where did you read about tethering support Phil?  Just AT&amp;T or will O2 be joining in?
+Index: 387 Tweet ID: 2562, Username: iPhoneFuzzbal, Polarity: 0, Text: Fuzzball is more fun than AT&amp;T ;P http://fuzz-ball.com/twitter
+Index: 388 Tweet ID: 2563, Username: itsolivi, Polarity: 0, Text: Today is a good day to dislike AT&amp;T. Vote out of office indeed; @danielpunkass
+Index: 389 Tweet ID: 2564, Username: kyrabeck, Polarity: 4, Text: GOT MY WAVE SANDBOX INVITE! Extra excited! Too bad I have class now... but I'll play with it soon enough! #io2009 #wave
+Index: 390 Tweet ID: 2575, Username: auxesi, Polarity: 0, Text: looks like summize has gone down. too many tweets from WWDC perhaps?
+Index: 391 Tweet ID: 2576, Username: deedeewarre, Polarity: 2, Text: I hope the girl at work  buys my Kindle2
+Index: 392 Tweet ID: 2577, Username: RogerSPres, Polarity: 2, Text: Missed this insight-filled May column: One smart guy looking closely at why he's impressed with Kindle2 http://bit.ly/i0peY @wroush
+Index: 393 Tweet ID: 2578, Username: kmozen, Polarity: 4, Text: @sklososky Thanks so much!!! ...from one of your *very* happy Kindle2 winners ; ) I was so surprised; fabulous. Thank you! Best; Kathleen
+Index: 394 Tweet ID: 531, Username: CrownRoyal, Polarity: 4, Text: i love Dwight Howard's vitamin water commercial... now i wish he was with NIKE and not adidas. lol.
+Index: 395 Tweet ID: 2579, Username: Jesssssi, Polarity: 0, Text: Man I kinda dislike Apple right now. Case in point: the iPhone 3GS. Wish there was a video recorder app. Please?? http://bit.ly/DZm1T
+Index: 396 Tweet ID: 532, Username: MrG, Polarity: 0, Text: Found NOTHING at Nike Factory :/ Off to Banana Republic Outlet! http://myloc.me/2zic
+Index: 397 Tweet ID: 533, Username: ngngfranci, Polarity: 2, Text: iPhone May Get Radio Tagging and Nike  : Recently-released iTunes version 8.2 suggests that VoiceOver functional.. http://tinyurl.com/oq5ctc
+Index: 398 Tweet ID: 534, Username: mikelongde, Polarity: 4, Text: is lovin his Nike  already and that's only from running on the spot in his bedroom
+Index: 399 Tweet ID: 556, Username: imgsearc, Polarity: 2, Text: Launched! http://imgsearch.net  #imgsearch #ajax #jquery #webapp
+Index: 400 Tweet ID: 557, Username: teagon, Polarity: 4, Text: @matthewcyan I finally got around to using jquery to make my bio collapse. Yay for slide animations.
+Index: 401 Tweet ID: 558, Username: marcrobert, Polarity: 2, Text: RT @jquery: The Ultimate jQuery List - http://jquerylist.com/
+Index: 402 Tweet ID: 559, Username: jacobrothstei, Polarity: 2, Text: I just extracted and open-sourced a jQuery plugin from Stormweight to highlight text with a regular expression: http://bit.ly/ybJKb
+Index: 403 Tweet ID: 560, Username: bedroomatio, Polarity: 2, Text: @anna_debenham what was the php jquery hack?
+Index: 404 Tweet ID: 561, Username: vmkob, Polarity: 2, Text: jQuery Cheat Sheet http://www.javascripttoolbox.com/jquery/cheatsheet/
+Index: 405 Tweet ID: 562, Username: NewTechBook, Polarity: 2, Text: Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5
+Index: 406 Tweet ID: 563, Username: adthomas, Polarity: 4, Text: @PDubyaD right!!! LOL we'll get there!! I have high expectations; Warren Buffet style.
+Index: 407 Tweet ID: 564, Username: Alfred0465, Polarity: 4, Text: RT @blknprecious1: RT GREAT @dbroos ""Someone's sitting in the shade today because someone planted a tree a long time ago.""- Warren Buffet
+Index: 408 Tweet ID: 565, Username: LovelyMisk, Polarity: 2, Text: Warren Buffet on the economy http://ping.fm/Lau0p
+Index: 409 Tweet ID: 566, Username: adamgilme, Polarity: 4, Text: Warren Buffet became (for a time) the richest man in the United States; not by working but investing in 1 Big idea which lead to the fortune
+Index: 410 Tweet ID: 567, Username: PatfaceCatfac, Polarity: 4, Text: According to the create a school; Notre Dame will have 7 receivers in NCAA 10 at 84 or higher rating :) *sweet*
+Index: 411 Tweet ID: 568, Username: MY_NBA_PLAYOFF, Polarity: 2, Text: All-Star Basketball Classic Tuesday Features Top Talent: Chattanooga's Notre Dame High School will play host.. http://bit.ly/qltJA
+Index: 412 Tweet ID: 569, Username: rachaelbende, Polarity: 4, Text: @BlondeBroad it's definitely under warranty &amp; my experience is the amazon support for kindle is great! had to contact them about my kindle2
+Index: 413 Tweet ID: 570, Username: aqrin, Polarity: 2, Text: RT Look; Available !Amazon Kindle2 &amp; Kindle DX; Get it Here: http://short.to/87ub The Top Electronic Book Reader Period; free 2 day ship ...
+Index: 414 Tweet ID: 571, Username: davepurcel, Polarity: 0, Text: Time Warner Road Runner customer support here absolutely blows. I hate not having other high-speed net options. I'm ready to go nuclear.
+Index: 415 Tweet ID: 572, Username: MarleyLuv2, Polarity: 0, Text: Time Warner cable phone reps r dumber than nails!!!!! UGH! Cable was working 10 mins ago now its not WTF!
+Index: 416 Tweet ID: 573, Username: acomicbookgir, Polarity: 0, Text: @siratomofbones we tried but Time Warner wasn't being nice so we recorded today. :)
+Index: 417 Tweet ID: 574, Username: MichelleEReaga, Polarity: 0, Text: OMG - time warner f'ed up my internet install - instead of today  its now NEXT saturday - another week w/o internet! &amp;$*ehfa^V9fhg[*# fml.
+Index: 418 Tweet ID: 575, Username: jpaje1, Polarity: 0, Text: wth..i have never seen a line this loooong at time warner before; ugh.
+Index: 419 Tweet ID: 576, Username: JessSlevi, Polarity: 0, Text: Impatiently awaiting the arrival of the time warner guy. It's way too pretty to be inside all afternoon
+Index: 420 Tweet ID: 577, Username: jworthingto, Polarity: 2, Text: Man accosts Roger Federer during French Open http://ff.im/3HCPT
+Index: 421 Tweet ID: 578, Username: R0B3rt, Polarity: 0, Text: Naive Bayes using EM for Text Classification. Really Frustrating...
+Index: 422 Tweet ID: 585, Username: Tammy, Polarity: 4, Text: We went to Stanford University today. Got a tour. Made me want to go back to college. It's also decided all of our kids will go there.
+Index: 423 Tweet ID: 586, Username: elliottn, Polarity: 2, Text: Investigation pending on death of Stanford CS prof / Google mentor Rajeev Motwani http://bit.ly/LwOUR tip @techmeme
+Index: 424 Tweet ID: 587, Username: Shibuki_ku, Polarity: 2, Text: I'm going to bed. It was a successful weekend. Stanford; here I come.
+Index: 425 Tweet ID: 588, Username: painhatelov, Polarity: 0, Text: @KarrisFoxy If you're being harassed by calls about your car warranty; changing your number won't fix that. They call every number. #d-bags
+Index: 426 Tweet ID: 589, Username: russdavisdotco, Polarity: 0, Text: Just blocked United Blood Services using Google Voice. They call more than those Car Warranty guys.
+Index: 427 Tweet ID: 594, Username: jamesmakeseye, Polarity: 0, Text: #at&amp;t is complete fail.
+Index: 428 Tweet ID: 595, Username: mikeyi, Polarity: 0, Text: @broskiii OH SNAP YOU WORK AT AT&amp;T DON'T YOU
+Index: 429 Tweet ID: 596, Username: nakiasmil, Polarity: 0, Text: @Mbjthegreat i really dont want AT&amp;T phone service..they suck when it comes to having a signal
+Index: 430 Tweet ID: 597, Username: wiiske, Polarity: 0, Text: I say we just cut out the small talk: AT&amp;T's new slogan: F__k you; give us your money. (Apologies to Bob Geldof.)
+Index: 431 Tweet ID: 598, Username: brk, Polarity: 0, Text: pissed about at&amp;t's mid-contract upgrade price for the iPhone (it's $200 more) I'm not going to pay $499 for something I thought was $299
+Index: 432 Tweet ID: 599, Username: jesusmbae, Polarity: 0, Text: Safari 4 is fast :) Even on my shitty AT&amp;T tethering.
+Index: 433 Tweet ID: 600, Username: Claystation, Polarity: 0, Text: @ims What is AT&amp;T fucking up?
+Index: 434 Tweet ID: 601, Username: matthewphewe, Polarity: 0, Text: @springsingfiend @dvyers @sethdaggett @jlshack AT&amp;T dropped the ball and isn't supporting crap with the new iPhone 3.0... FAIL #att SUCKS!!!
+Index: 435 Tweet ID: 602, Username: chelseabo, Polarity: 0, Text: @MMBarnhill yay; glad you got the phone! Still; damn you; AT&amp;T.
+Index: 436 Tweet ID: 603, Username: girgel, Polarity: 2, Text: Google Wave Developer Sandbox Account Request http://bit.ly/2NYlc
+Index: 437 Tweet ID: 613, Username: StrategisAd, Polarity: 0, Text: Talk is Cheap: Bing that; I?ll stick with Google. http://bit.ly/XC3C8
+Index: 438 Tweet ID: 614, Username: fabulousaur, Polarity: 0, Text: @defsounds WTF is the point of deleting tweets if they can still be found in summize and searches? Twitter; please fix that. Thanks and bye
+Index: 439 Tweet ID: 626, Username: dryligh, Polarity: 2, Text: @mattcutts have google profiles stopped showing up in searches? cant see them anymore
+Index: 440 Tweet ID: 627, Username: ManiKarthi, Polarity: 4, Text: @ArunBasilLal I love Google Translator too ! :D Good day mate !
+Index: 441 Tweet ID: 14045, Username: boardcentra, Polarity: 2, Text: Twitter Stock buzz: $AAPL $ES_F $SPY $SPX $PALM  (updated: 12:00 PM)
+Index: 442 Tweet ID: 14046, Username: JimFace, Polarity: 4, Text: getting ready to test out some burger receipes this weekend. Bobby Flay has some great receipes to try. Thanks Bobby.
+Index: 443 Tweet ID: 14049, Username: wetfishdesign, Polarity: 2, Text: @johncmayer is Bobby Flay joining you?
+Index: 444 Tweet ID: 14050, Username: A_TALL_BLOND, Polarity: 4, Text: i lam so in love with Bobby Flay... he is my favorite. RT @terrysimpson: @bflay you need a place in Phoenix. We have great peppers here!
+Index: 445 Tweet ID: 14069, Username: rooney_tune, Polarity: 0, Text: I just created my first LaTeX file from scratch. That didn't work out very well. (See @amandabittner ; it's a great time waster)
+Index: 446 Tweet ID: 14070, Username: roguemovemen, Polarity: 4, Text: using Linux and loving it - so much nicer than windows... Looking forward to using the wysiwyg latex editor!
+Index: 447 Tweet ID: 14071, Username: yomca, Polarity: 4, Text: After using LaTeX a lot; any other typeset mathematics just looks hideous.
+Index: 448 Tweet ID: 14072, Username: proggi, Polarity: 2, Text: Ask Programming: LaTeX or InDesign?: submitted by calcio1 [link] [1 comment] http://tinyurl.com/myfmf7
+Index: 449 Tweet ID: 14073, Username: sam33, Polarity: 0, Text: On that note; I hate Word. I hate Pages. I hate LaTeX. There; I said it. I hate LaTeX. All you TEXN3RDS can come kill me now.
+Index: 450 Tweet ID: 14074, Username: iamtheonlyjosi, Polarity: 4, Text: Ahhh... back in a *real* text editing environment. I &lt;3 LaTeX.
+Index: 451 Tweet ID: 13051, Username: sfkerropi, Polarity: 2, Text: has a date with bobby flay and gut fieri from food network
+Index: 452 Tweet ID: 14075, Username: plutopup, Polarity: 0, Text: Trouble in Iran; I see. Hmm. Iran. Iran so far away. #flockofseagullsweregeopoliticallycorrect
+Index: 453 Tweet ID: 13052, Username: tessala, Polarity: 4, Text: Excited about seeing Bobby Flay and Guy Fieri tomorrow at the Great American Food &amp; Music Fest!
+Index: 454 Tweet ID: 14076, Username: captain_pet, Polarity: 0, Text: Reading the tweets coming out of Iran... The whole thing is terrifying and incredibly sad...
+Index: 455 Tweet ID: 13053, Username: ZFilt, Polarity: 4, Text: Gonna go see Bobby Flay 2moro at Shoreline. Eat and drink. Gonna be good.
+Index: 456 Tweet ID: 13054, Username: annieblan, Polarity: 4, Text: can't wait for the great american food and music festival at shoreline tomorrow.  mmm...katz pastrami and bobby flay. yes please.
+Index: 457 Tweet ID: 13055, Username: LAURAcBRYA, Polarity: 4, Text: My dad was in NY for a day; we ate at MESA grill last night and met Bobby Flay. So much fun; except I completely lost my voice today.
+Index: 458 Tweet ID: 13073, Username: NathanChalmer, Polarity: 0, Text: Fighting with LaTex. Again...
+Index: 459 Tweet ID: 13074, Username: LoonyLongbotto, Polarity: 0, Text: @Iheartseverus we love you too and don't want you to die!!!!!!  Latex = the devil
+Index: 460 Tweet ID: 13075, Username: QuadErro, Polarity: 0, Text: 7 hours. 7 hours of inkscape crashing; normally solid as a rock. 7 hours of LaTeX complaining at the slightest thing. I can't take any more.
+Index: 461 Tweet ID: 13076, Username: musicmus, Polarity: 2, Text: How to Track Iran with Social Media: http://bit.ly/2BoqU
+Index: 462 Tweet ID: 13077, Username: sketoak, Polarity: 0, Text: Shit's hitting the fan in Iran...craziness indeed #iranelection
+Index: 463 Tweet ID: 13078, Username: jamespenycat, Polarity: 0, Text: Monday already. Iran may implode. Kitchen is a disaster. @annagoss seems happy. @sebulous had a nice weekend and @goldpanda is great. whoop.
+Index: 464 Tweet ID: 7011, Username: jimhon, Polarity: 4, Text: @cwong08 I have a Kindle2 (&amp; Sony PRS-500). Like it! Physical device feels good. Font is nice. Pg turns are snappy enuf. UI a little klunky.
+Index: 465 Tweet ID: 7012, Username: Ant_War, Polarity: 4, Text: The #Kindle2 seems the best eReader; but will it work in the UK and where can I get one?
+Index: 466 Tweet ID: 7015, Username: popitlocki, Polarity: 4, Text: I have a google addiction. Thank you for pointing that out; @annamartin123. Hahaha.
+Index: 467 Tweet ID: 8051, Username: MalloryRayn, Polarity: 2, Text: Off to the bank to get my new visa platinum card
+Index: 468 Tweet ID: 8052, Username: _abi, Polarity: 0, Text: dearest @google; you rich bastards! the VISA card you sent me doesn't work. why screw a little guy like me?
+Index: 469 Tweet ID: 7055, Username: FionaSara, Polarity: 2, Text: @ruby_gem My primary debit card is Visa Electron.
+Index: 470 Tweet ID: 2010, Username: Moc508, Polarity: 0, Text: I have to go to Booz Allen Hamilton for a 2hr meeting :(  But then i get to go home :)
+Index: 471 Tweet ID: 2011, Username: citizenofindi, Polarity: 4, Text: The great Indian tamasha truly will unfold from May 16; the result day for Indian General Election.
+Index: 472 Tweet ID: 2012, Username: Melonz, Polarity: 4, Text: @crlane I have the Kindle2. I've seen pictures of the DX; but haven't seen it in person. I love my Kindle - I'm on it everyday.
+Index: 473 Tweet ID: 2013, Username: SPReview, Polarity: 4, Text: @criticalpath Such an awesome idea - the  continual learning program with a Kindle2  http://bit.ly/1ZLfF
+Index: 474 Tweet ID: 2014, Username: ha_nobit, Polarity: 2, Text: ok.. do nothing.. just thinking about 40D
+Index: 475 Tweet ID: 2015, Username: Jen2Square, Polarity: 4, Text: @faithbabywear Ooooh; what model are you getting??? I have the 40D and LOVE LOVE LOVE LOVE it!
+Index: 476 Tweet ID: 2018, Username: __ne, Polarity: 4, Text: The Times of India: The wonder that is India's election. http://bit.ly/p7u1H
+Index: 477 Tweet ID: 1002, Username: jhall51, Polarity: 4, Text: reading on my new Kindle2!
+Index: 478 Tweet ID: 1003, Username: HappyWin, Polarity: 4, Text: My Kindle2 came and I LOVE it! :)
+Index: 479 Tweet ID: 1004, Username: Teaguem200, Polarity: 4, Text: LOVING my new Kindle2.  Named her Kendra in case u were wondering. The ""cookbook"" is THE tool cuz it tells u all the tricks!  Best gift EVR!
+Index: 480 Tweet ID: 1005, Username: dailysourcede, Polarity: 0, Text: The real AIG scandal / http://bit.ly/b82Px
+Index: 481 Tweet ID: 1006, Username: gandhiram, Polarity: 2, Text: Any twitter to aprs apps yet?
+Index: 482 Tweet ID: 1007, Username: delpo, Polarity: 2, Text: 45 Pros You Should Be Following on Twitter - http://is.gd/sMbZ
+Index: 483 Tweet ID: 1008, Username: lingbellbel, Polarity: 4, Text: Obama is quite a good comedian! check out his dinner speech on CNN :) very funny jokes.
+Index: 484 Tweet ID: 1009, Username: motsandc, Polarity: 4, Text: ' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !! Great speech..
+Index: 485 Tweet ID: 1010, Username: micko, Polarity: 4, Text: I like this guy : ' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !!
+Index: 486 Tweet ID: 1011, Username: meggentil, Polarity: 4, Text: Obama's speech was pretty awesome last night! http://bit.ly/IMXUM
+Index: 487 Tweet ID: 1012, Username: failnes, Polarity: 4, Text: Reading  ""Bill Clinton Fail - Obama Win?"" http://tinyurl.com/pcyxj7
+Index: 488 Tweet ID: 1013, Username: kled, Polarity: 4, Text: Obama More Popular Than U.S. Among Arabs: Survey: President Barack Obama's popularity in leading Arab countries .. http://tinyurl.com/prlvqu
+Index: 489 Tweet ID: 1014, Username: LaurelEdelstei, Polarity: 4, Text: Obama's got JOKES!! haha just got to watch a bit of his after dinner speech from last night... i'm in love with mr. president ;)
+Index: 490 Tweet ID: 1015, Username: chelseabigas, Polarity: 0, Text: LEbron james got in a car accident i guess..just heard it on evening news...wow i cant believe it..will he be ok ? http://twtad.com/69750
+Index: 491 Tweet ID: 1016, Username: Smitty47, Polarity: 4, Text: is it me or is this the best the playoffs have been in years oh yea lebron and melo in the finals
+Index: 492 Tweet ID: 1017, Username: PurpleGorillaZ, Polarity: 4, Text: @khalid0456 No; Lebron is the best
+Index: 493 Tweet ID: 1018, Username: MsStach, Polarity: 4, Text: @the_real_usher LeBron is cool.  I like his personality...he has good character.
+Index: 494 Tweet ID: 1019, Username: undefeated31, Polarity: 4, Text: Watching Lebron highlights. Damn that niggas good
+Index: 495 Tweet ID: 1020, Username: BI_POLAROI, Polarity: 4, Text: @Lou911 Lebron is MURDERING shit.
+Index: 496 Tweet ID: 1021, Username: IAmNoeAnge, Polarity: 4, Text: @uscsports21 LeBron is a monsta and he is only 24. SMH The world ain't ready.
+Index: 497 Tweet ID: 1022, Username: ksmedi, Polarity: 4, Text: @cthagod when Lebron is done in the NBA he will probably be greater than Kobe. Like u said Kobe is good but there alot of 'good' players.
+Index: 498 Tweet ID: 1023, Username: PrEttIBoIGaR, Polarity: 4, Text: KOBE IS GOOD BT LEBRON HAS MY VOTE
