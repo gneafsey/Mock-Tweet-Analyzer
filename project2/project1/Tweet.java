@@ -20,17 +20,17 @@ public class Tweet {
 	public Tweet(Tweet t) {
 		// TODO Auto-generated constructor stub
 	}
-	public Tweet(String text) {
+	public Tweet(String un, String text) {
 		polarity = -1;
-		id = -1;
-		userName = "unset";
+		id = 0;
+		userName = un;
 		tweetText = text;
 	}
 	public String toString() {
 		//Tweet toString method
-		String toReturn = "Polarity: " + polarity + ", ";
-		toReturn += "Tweet ID: " + id + ", ";
+		String toReturn = "Tweet ID: " + id + ", ";
 		toReturn += "Username: " + userName + ", ";
+		toReturn += "Polarity: " + polarity + ", ";
 		toReturn += "Text: " + tweetText;
 		
 		return toReturn;
