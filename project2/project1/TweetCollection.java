@@ -184,7 +184,43 @@ public class TweetCollection {
 		//return size of Tweet collection
 		return myData.size();
 	}
-	
+	public double numNegative(TweetCollection rhs) {
+		double num_negative = 0;
+		double negative = 0.0;
+		
+		for(Map.Entry<Long, Tweet> entry : myData.entrySet()) {
+			if (entry.getValue().getPolarity() == 0) {
+				num_negative++;
+				System.out.println(num_negative);
+			}
+		}
+		negative = (num_negative/(size()))*100.0;
+		return negative;
+	}
+	public double numNeutral(TweetCollection rhs) {
+		double num_neutral = 0;
+		double neutral = 0.0;
+		
+		for(Map.Entry<Long, Tweet> entry : myData.entrySet()) {
+			if (entry.getValue().getPolarity() == 2) {
+				num_neutral++;
+			}
+		}
+		neutral = (num_neutral/(size()))*100.0;
+		return neutral;
+	}
+	public double numPositive(TweetCollection rhs) {
+		double num_positive = 0;
+		double positive = 0.0;
+		
+		for(Map.Entry<Long, Tweet> entry : myData.entrySet()) {
+			if (entry.getValue().getPolarity() == 4) {
+				num_positive++;
+			}
+		}
+		positive = (num_positive/(size()))*100.0;
+		return positive;
+	}
 	public String toString() {
 		//convert Tweet collection to String
 		String toReturn = "Collection of Tweets:"+"\n";

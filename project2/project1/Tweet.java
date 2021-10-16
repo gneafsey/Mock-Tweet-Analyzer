@@ -20,8 +20,8 @@ public class Tweet {
 	public Tweet(Tweet t) {
 		// TODO Auto-generated constructor stub
 	}
-	public Tweet(String un, String text) {
-		polarity = -1;
+	public Tweet(int p, String un, String text) {
+		polarity = p;
 		id = 0;
 		userName = un;
 		tweetText = text;
