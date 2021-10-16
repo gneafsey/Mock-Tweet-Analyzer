@@ -1,3 +1,5 @@
+//Gabrielle Neafsey-Wroten
+
 package project2;
 
 import java.awt.*;
@@ -42,9 +44,8 @@ public class MainPanel extends JPanel {
 	private JCheckBox checkBox;
 	private JCheckBox checkBox_1;
 	private JCheckBox checkBox_1_1;
-	//-----------------------------------------------------------------
-	// Sets up the panel, including the timer for the animation.
-	//-----------------------------------------------------------------
+	private JScrollPane scrollPane;
+	
 	public MainPanel()
 	{
 		
@@ -60,10 +61,13 @@ public class MainPanel extends JPanel {
 		lblTweets.setBounds(20, 156, 171, 45);
 		add(lblTweets);
 		
+		scrollPane = new JScrollPane();
+		scrollPane.setBounds(10, 192, 332, 396);
+		add(scrollPane);
+		
 		textArea = new JTextArea();
+		scrollPane.setViewportView(textArea);
 		textArea.setText(tc.toString());
-		textArea.setBounds(10, 192, 332, 340);
-		add(textArea);
 		
 		foundTweet = new JTextArea();
 		foundTweet.setLineWrap(true);
